@@ -1,0 +1,23 @@
+Job Title:Full Stack Developer
+
+Required Skills:
+
+React.js
+.NET Core
+C#
+Node.js
+REST APIs
+SQL
+MongoDB / PostgreSQL
+Git
+Authentication (JWT/OAuth)
+Data Structures & Algorithms
+
+Preferred Skills:
+
+Azure
+Docker
+Kubernetes
+CI/CD
+Microservices
+System Design

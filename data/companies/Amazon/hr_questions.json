@@ -1,0 +1,75 @@
+{
+  "company": "Amazon",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Company",
+      "difficulty": "Easy",
+      "question": "Why do you want to work at Amazon?",
+      "answer": "Explain your interest in Amazon's customer-centric culture, innovation, global impact, and career growth opportunities."
+    },
+    {
+      "id": 2,
+      "category": "Leadership Principles",
+      "difficulty": "Medium",
+      "question": "Tell me about a time you demonstrated Customer Obsession.",
+      "answer": "Describe a situation where you prioritized customer needs and improved their experience."
+    },
+    {
+      "id": 3,
+      "category": "Leadership Principles",
+      "difficulty": "Medium",
+      "question": "Describe a time you took Ownership.",
+      "answer": "Explain how you accepted responsibility beyond your assigned work and delivered results."
+    },
+    {
+      "id": 4,
+      "category": "Leadership Principles",
+      "difficulty": "Medium",
+      "question": "Tell me about a time you had to make a decision with limited information.",
+      "answer": "Show how you analyzed available data, evaluated risks, and made a sound decision."
+    },
+    {
+      "id": 5,
+      "category": "Problem Solving",
+      "difficulty": "Hard",
+      "question": "Describe a complex problem you solved.",
+      "answer": "Use the STAR method and explain your reasoning, actions, and measurable outcome."
+    },
+    {
+      "id": 6,
+      "category": "Leadership Principles",
+      "difficulty": "Medium",
+      "question": "Tell me about a time you learned something new quickly.",
+      "answer": "Explain how you adapted and applied the new knowledge successfully."
+    },
+    {
+      "id": 7,
+      "category": "Conflict Resolution",
+      "difficulty": "Medium",
+      "question": "Describe a disagreement with a teammate.",
+      "answer": "Explain how you handled the disagreement professionally and reached a positive outcome."
+    },
+    {
+      "id": 8,
+      "category": "Leadership Principles",
+      "difficulty": "Medium",
+      "question": "Give an example of when you improved a process.",
+      "answer": "Describe the problem, your improvement, and the measurable benefits."
+    },
+    {
+      "id": 9,
+      "category": "Innovation",
+      "difficulty": "Medium",
+      "question": "Tell me about a creative solution you implemented.",
+      "answer": "Explain the idea, implementation, and business impact."
+    },
+    {
+      "id": 10,
+      "category": "Company",
+      "difficulty": "Easy",
+      "question": "Which Amazon Leadership Principle do you relate to the most and why?",
+      "answer": "Choose one principle such as Ownership, Learn and Be Curious, or Customer Obsession and support it with a real example."
+    }
+  ]
+}

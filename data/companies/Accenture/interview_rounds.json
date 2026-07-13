@@ -1,0 +1,20 @@
+{
+  "company": "Accenture",
+  "rounds": [
+    {
+      "round": 1,
+      "name": "Online Assessment",
+      "focus": ["Coding", "Aptitude", "Logical Reasoning"]
+    },
+    {
+      "round": 2,
+      "name": "Technical Interview",
+      "focus": ["Programming", "Projects"]
+    },
+    {
+      "round": 3,
+      "name": "HR Interview",
+      "focus": ["Behavioral", "Communication"]
+    }
+  ]
+}

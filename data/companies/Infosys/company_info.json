@@ -1,0 +1,47 @@
+{
+  "company": "Infosys",
+  "parent_company": "Infosys Limited",
+  "founded": 1981,
+  "founders": [
+    "N. R. Narayana Murthy",
+    "Nandan Nilekani",
+    "S. Gopalakrishnan",
+    "S. D. Shibulal",
+    "K. Dinesh",
+    "N. S. Raghavan",
+    "Ashok Arora"
+  ],
+  "ceo": "Salil Parekh",
+  "headquarters": "Bengaluru, Karnataka, India",
+  "industry": "Information Technology Services",
+  "employees": "320000+",
+  "website": "https://www.infosys.com",
+  "careers": "https://career.infosys.com",
+  "internships": true,
+  "work_model": [
+    "Hybrid"
+  ],
+  "products": [
+    "Infosys Topaz",
+    "Finacle",
+    "Infosys Cobalt"
+  ],
+  "tech_stack": [
+    "Java",
+    "Python",
+    "SQL",
+    "Angular",
+    "AWS"
+  ],
+  "interview_process": [
+    "Online Test",
+    "Technical Interview",
+    "HR Interview"
+  ],
+  "salary": {
+    "intern": "$10-$20/hour",
+    "sde1": "$70k-$100k",
+    "sde2": "$100k-$140k"
+  },
+  "description": "Infosys provides consulting, digital transformation, cloud, AI, and software engineering services worldwide."
+}

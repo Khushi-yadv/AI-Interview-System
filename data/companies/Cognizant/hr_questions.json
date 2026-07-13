@@ -1,0 +1,75 @@
+{
+  "company": "Cognizant",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Company",
+      "difficulty": "Easy",
+      "question": "Why do you want to work at Cognizant?",
+      "answer": "Explain your interest in Cognizant's digital transformation services, global clients, learning opportunities, and career growth."
+    },
+    {
+      "id": 2,
+      "category": "Client Focus",
+      "difficulty": "Medium",
+      "question": "Tell me about a time you worked on a client-focused project.",
+      "answer": "Describe the project, your role, how you met client requirements, and the outcome."
+    },
+    {
+      "id": 3,
+      "category": "Teamwork",
+      "difficulty": "Medium",
+      "question": "Describe a time you collaborated with a diverse team.",
+      "answer": "Explain how you communicated effectively and contributed to the team's success."
+    },
+    {
+      "id": 4,
+      "category": "Problem Solving",
+      "difficulty": "Hard",
+      "question": "Tell me about a challenging technical issue you resolved.",
+      "answer": "Use the STAR method and explain the problem, solution, and measurable impact."
+    },
+    {
+      "id": 5,
+      "category": "Adaptability",
+      "difficulty": "Medium",
+      "question": "How do you handle changing client requirements?",
+      "answer": "Discuss flexibility, communication, prioritization, and delivering quality work."
+    },
+    {
+      "id": 6,
+      "category": "Learning",
+      "difficulty": "Easy",
+      "question": "How do you keep your technical knowledge up to date?",
+      "answer": "Mention online courses, certifications, documentation, and hands-on practice."
+    },
+    {
+      "id": 7,
+      "category": "Leadership",
+      "difficulty": "Medium",
+      "question": "Describe a situation where you took initiative.",
+      "answer": "Explain how you identified an opportunity, acted independently, and achieved positive results."
+    },
+    {
+      "id": 8,
+      "category": "Communication",
+      "difficulty": "Easy",
+      "question": "How do you communicate with clients who are not technical?",
+      "answer": "Use simple language, visual examples, and focus on business outcomes."
+    },
+    {
+      "id": 9,
+      "category": "Quality",
+      "difficulty": "Medium",
+      "question": "How do you ensure quality while meeting deadlines?",
+      "answer": "Discuss planning, testing, reviews, and effective time management."
+    },
+    {
+      "id": 10,
+      "category": "Company",
+      "difficulty": "Easy",
+      "question": "Why should Cognizant hire you?",
+      "answer": "Highlight your technical skills, adaptability, communication, and commitment to delivering quality solutions."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "company": "Meta",
+  "rounds": [
+    {
+      "round": 1,
+      "name": "Online Coding Assessment",
+      "focus": ["DSA", "Coding"]
+    },
+    {
+      "round": 2,
+      "name": "Technical Interview",
+      "focus": ["Algorithms", "Problem Solving"]
+    },
+    {
+      "round": 3,
+      "name": "System Design",
+      "focus": ["Scalability", "Distributed Systems"]
+    },
+    {
+      "round": 4,
+      "name": "Behavioral Interview",
+      "focus": ["Impact", "Collaboration", "Communication"]
+    }
+  ]
+}

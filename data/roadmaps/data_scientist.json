@@ -1,0 +1,131 @@
+{
+  "career": "Data Scientist",
+  "description": "A Data Scientist analyzes complex data, builds predictive models, applies machine learning techniques, and communicates insights to solve real-world business problems.",
+
+  "steps": [
+    {
+      "step": 1,
+      "title": "Programming Fundamentals",
+      "topics": [
+        "Python",
+        "Variables & Data Types",
+        "Functions",
+        "Object-Oriented Programming",
+        "File Handling",
+        "Exception Handling"
+      ]
+    },
+    {
+      "step": 2,
+      "title": "Mathematics & Statistics",
+      "topics": [
+        "Linear Algebra",
+        "Probability",
+        "Statistics",
+        "Calculus",
+        "Hypothesis Testing",
+        "Correlation & Regression"
+      ]
+    },
+    {
+      "step": 3,
+      "title": "SQL & Database Management",
+      "topics": [
+        "SQL Basics",
+        "Joins",
+        "Group By",
+        "Subqueries",
+        "Views",
+        "MySQL",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "step": 4,
+      "title": "Data Analysis & Visualization",
+      "topics": [
+        "NumPy",
+        "Pandas",
+        "Matplotlib",
+        "Seaborn",
+        "Plotly",
+        "Exploratory Data Analysis (EDA)"
+      ]
+    },
+    {
+      "step": 5,
+      "title": "Machine Learning",
+      "topics": [
+        "Supervised Learning",
+        "Unsupervised Learning",
+        "Regression",
+        "Classification",
+        "Clustering",
+        "Decision Trees",
+        "Random Forest",
+        "Support Vector Machines (SVM)",
+        "K-Nearest Neighbors (KNN)"
+      ]
+    },
+    {
+      "step": 6,
+      "title": "Deep Learning",
+      "topics": [
+        "Artificial Neural Networks (ANN)",
+        "TensorFlow",
+        "Keras",
+        "PyTorch",
+        "Convolutional Neural Networks (CNN)",
+        "Recurrent Neural Networks (RNN)"
+      ]
+    },
+    {
+      "step": 7,
+      "title": "Big Data & Cloud",
+      "topics": [
+        "Apache Spark",
+        "Hadoop Basics",
+        "AWS",
+        "Google Cloud Platform (GCP)",
+        "Azure"
+      ]
+    },
+    {
+      "step": 8,
+      "title": "Version Control & Deployment",
+      "topics": [
+        "Git",
+        "GitHub",
+        "Docker",
+        "Streamlit",
+        "Flask",
+        "FastAPI"
+      ]
+    },
+    {
+      "step": 9,
+      "title": "Projects",
+      "topics": [
+        "House Price Prediction",
+        "Customer Segmentation",
+        "Stock Price Prediction",
+        "Recommendation System",
+        "Fraud Detection",
+        "Sentiment Analysis"
+      ]
+    },
+    {
+      "step": 10,
+      "title": "Interview Preparation",
+      "topics": [
+        "Python Interview Questions",
+        "SQL Interview Questions",
+        "Machine Learning Interview Questions",
+        "Statistics Questions",
+        "Case Studies",
+        "Resume Building",
+        "Mock Interviews"
+      ]
+    }
+  ]
+}

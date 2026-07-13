@@ -1,0 +1,75 @@
+{
+  "company": "Intel",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Company",
+      "difficulty": "Easy",
+      "question": "Why do you want to work at Intel?",
+      "answer": "Explain your interest in Intel's semiconductor technology, innovation, AI, and hardware engineering."
+    },
+    {
+      "id": 2,
+      "category": "Technology",
+      "difficulty": "Medium",
+      "question": "Tell me about a project where you optimized system performance.",
+      "answer": "Describe the problem, optimization techniques, technologies used, and measurable improvements."
+    },
+    {
+      "id": 3,
+      "category": "Problem Solving",
+      "difficulty": "Hard",
+      "question": "Describe a complex technical problem you solved.",
+      "answer": "Use the STAR method and explain your approach, implementation, and final results."
+    },
+    {
+      "id": 4,
+      "category": "Teamwork",
+      "difficulty": "Medium",
+      "question": "Tell me about a time you collaborated with different teams.",
+      "answer": "Explain your communication, coordination, and successful project outcome."
+    },
+    {
+      "id": 5,
+      "category": "Innovation",
+      "difficulty": "Medium",
+      "question": "Describe an innovative idea you implemented.",
+      "answer": "Explain the idea, execution, and positive impact."
+    },
+    {
+      "id": 6,
+      "category": "Learning",
+      "difficulty": "Easy",
+      "question": "How do you stay updated with emerging technologies?",
+      "answer": "Mention documentation, technical papers, certifications, online courses, and hands-on projects."
+    },
+    {
+      "id": 7,
+      "category": "Leadership",
+      "difficulty": "Medium",
+      "question": "Describe a situation where you took ownership of a task.",
+      "answer": "Explain how you identified the issue, solved it, and delivered results."
+    },
+    {
+      "id": 8,
+      "category": "Adaptability",
+      "difficulty": "Medium",
+      "question": "Tell me about a time you adapted to a new technology quickly.",
+      "answer": "Describe your learning process and successful implementation."
+    },
+    {
+      "id": 9,
+      "category": "Quality",
+      "difficulty": "Medium",
+      "question": "How do you ensure quality in your software or hardware projects?",
+      "answer": "Discuss testing, validation, documentation, and code reviews."
+    },
+    {
+      "id": 10,
+      "category": "Company",
+      "difficulty": "Easy",
+      "question": "Why should Intel hire you?",
+      "answer": "Highlight your technical skills, analytical thinking, teamwork, and passion for innovation."
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+[
+  {
+    "id": "QUE001",
+    "title": "Implement Queue using Stacks",
+    "difficulty": "Easy",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Queue",
+      "Stack"
+    ],
+    "leetcode": "https://leetcode.com/problems/implement-queue-using-stacks/"
+  },
+  {
+    "id": "QUE002",
+    "title": "Number of Recent Calls",
+    "difficulty": "Easy",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Queue"
+    ],
+    "leetcode": "https://leetcode.com/problems/number-of-recent-calls/"
+  },
+  {
+    "id": "QUE003",
+    "title": "Dota2 Senate",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Queue"
+    ],
+    "leetcode": "https://leetcode.com/problems/dota2-senate/"
+  },
+  {
+    "id": "QUE004",
+    "title": "Time Needed to Buy Tickets",
+    "difficulty": "Easy",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Queue"
+    ],
+    "leetcode": "https://leetcode.com/problems/time-needed-to-buy-tickets/"
+  },
+  {
+    "id": "QUE005",
+    "title": "Design Circular Queue",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Queue",
+      "Design"
+    ],
+    "leetcode": "https://leetcode.com/problems/design-circular-queue/"
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "skill": "Express",
+  "roles": [
+    "Backend Developer",
+    "Full Stack Developer"
+  ],
+  "courses": [
+    {
+      "name": "Introduction to Express",
+      "platform": "Coursera",
+      "url": "https://www.coursera.org"
+    },
+    {
+      "name": "Express Complete Guide",
+      "platform": "Udemy",
+      "url": "https://www.udemy.com"
+    }
+  ],
+  "youtube": [
+    {
+      "channel": "freeCodeCamp",
+      "url": "https://www.youtube.com/@freecodecamp"
+    },
+    {
+      "channel": "CodeWithHarry",
+      "url": "https://www.youtube.com/@CodeWithHarry"
+    }
+  ],
+  "books": [
+    "Learning Express",
+    "Mastering Express",
+    "Express Handbook"
+  ],
+  "practice_websites": [
+    "https://leetcode.com",
+    "https://www.hackerrank.com",
+    "https://www.geeksforgeeks.org"
+  ]
+}

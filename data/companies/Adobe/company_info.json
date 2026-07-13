@@ -1,0 +1,44 @@
+{
+  "company": "Adobe",
+  "parent_company": "Adobe Inc.",
+  "founded": 1982,
+  "founders": [
+    "John Warnock",
+    "Charles Geschke"
+  ],
+  "ceo": "Shantanu Narayen",
+  "headquarters": "San Jose, California, USA",
+  "industry": "Software",
+  "employees": "30000+",
+  "website": "https://www.adobe.com",
+  "careers": "https://careers.adobe.com",
+  "internships": true,
+  "work_model": [
+    "Hybrid"
+  ],
+  "products": [
+    "Photoshop",
+    "Illustrator",
+    "Premiere Pro",
+    "Acrobat",
+    "Adobe Express"
+  ],
+  "tech_stack": [
+    "Java",
+    "Python",
+    "C++",
+    "React"
+  ],
+  "interview_process": [
+    "Online Assessment",
+    "Technical Interviews",
+    "Managerial",
+    "HR"
+  ],
+  "salary": {
+    "intern": "$35-$50/hour",
+    "sde1": "$150k-$190k",
+    "sde2": "$220k-$300k"
+  },
+  "description": "Adobe develops creative software, digital marketing solutions, and document management products."
+}

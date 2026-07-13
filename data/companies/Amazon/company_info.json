@@ -1,0 +1,46 @@
+{
+  "company": "Amazon",
+  "parent_company": "Amazon.com, Inc.",
+  "founded": 1994,
+  "founders": [
+    "Jeff Bezos"
+  ],
+  "ceo": "Andy Jassy",
+  "headquarters": "Seattle, Washington, USA",
+  "industry": "E-commerce & Cloud Computing",
+  "employees": "1500000+",
+  "website": "https://www.amazon.com",
+  "careers": "https://www.amazon.jobs",
+  "internships": true,
+  "work_model": [
+    "Hybrid",
+    "On-site"
+  ],
+  "products": [
+    "AWS",
+    "Amazon Prime",
+    "Alexa",
+    "Kindle",
+    "Amazon Shopping"
+  ],
+  "tech_stack": [
+    "Java",
+    "Python",
+    "AWS",
+    "DynamoDB",
+    "Kubernetes"
+  ],
+  "interview_process": [
+    "Online Assessment",
+    "Technical Interviews",
+    "System Design",
+    "Behavioral",
+    "Bar Raiser"
+  ],
+  "salary": {
+    "intern": "$45-$60/hour",
+    "sde1": "$170k-$220k",
+    "sde2": "$260k-$360k"
+  },
+  "description": "Amazon is a multinational technology company focused on e-commerce, cloud computing, artificial intelligence, and digital services."
+}

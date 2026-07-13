@@ -1,0 +1,45 @@
+{
+  "skill": "Behavioral Interview",
+  "roles": [
+    "Software Engineer",
+    "Backend Developer",
+    "Frontend Developer",
+    "Full Stack Developer",
+    "Python Developer",
+    "Machine Learning Engineer",
+    "Data Scientist",
+    "Data Analyst"
+  ],
+  "courses": [
+    {
+      "name": "Introduction to Behavioral Interview",
+      "platform": "Coursera",
+      "url": "https://www.coursera.org"
+    },
+    {
+      "name": "Behavioral Interview Complete Guide",
+      "platform": "Udemy",
+      "url": "https://www.udemy.com"
+    }
+  ],
+  "youtube": [
+    {
+      "channel": "freeCodeCamp",
+      "url": "https://www.youtube.com/@freecodecamp"
+    },
+    {
+      "channel": "CodeWithHarry",
+      "url": "https://www.youtube.com/@CodeWithHarry"
+    }
+  ],
+  "books": [
+    "Learning Behavioral Interview",
+    "Mastering Behavioral Interview",
+    "Behavioral Interview Handbook"
+  ],
+  "practice_websites": [
+    "https://leetcode.com",
+    "https://www.hackerrank.com",
+    "https://www.geeksforgeeks.org"
+  ]
+}

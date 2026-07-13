@@ -1,0 +1,45 @@
+{
+  "company": "Oracle",
+  "parent_company": "Oracle Corporation",
+  "founded": 1977,
+  "founders": [
+    "Larry Ellison",
+    "Bob Miner",
+    "Ed Oates"
+  ],
+  "ceo": "Safra Catz",
+  "headquarters": "Austin, Texas, USA",
+  "industry": "Enterprise Software",
+  "employees": "160000+",
+  "website": "https://www.oracle.com",
+  "careers": "https://www.oracle.com/careers",
+  "internships": true,
+  "work_model": [
+    "Hybrid"
+  ],
+  "products": [
+    "Oracle Database",
+    "Oracle Cloud Infrastructure",
+    "Java",
+    "NetSuite"
+  ],
+  "tech_stack": [
+    "Java",
+    "SQL",
+    "Python",
+    "Kubernetes",
+    "OCI"
+  ],
+  "interview_process": [
+    "Online Assessment",
+    "Technical Interviews",
+    "Managerial",
+    "HR"
+  ],
+  "salary": {
+    "intern": "$25-$40/hour",
+    "sde1": "$130k-$170k",
+    "sde2": "$180k-$250k"
+  },
+  "description": "Oracle develops enterprise databases, cloud infrastructure, ERP applications, and business software."
+}

@@ -1,0 +1,43 @@
+{
+  "company": "TCS",
+  "parent_company": "Tata Consultancy Services Limited",
+  "founded": 1968,
+  "founders": [
+    "J. R. D. Tata",
+    "F. C. Kohli"
+  ],
+  "ceo": "K. Krithivasan",
+  "headquarters": "Mumbai, Maharashtra, India",
+  "industry": "Information Technology Services",
+  "employees": "610000+",
+  "website": "https://www.tcs.com",
+  "careers": "https://www.tcs.com/careers",
+  "internships": true,
+  "work_model": [
+    "Hybrid"
+  ],
+  "products": [
+    "TCS BaNCS",
+    "TCS iON",
+    "TCS MasterCraft"
+  ],
+  "tech_stack": [
+    "Java",
+    "Python",
+    "SQL",
+    "Angular",
+    "AWS"
+  ],
+  "interview_process": [
+    "Online Test",
+    "Technical Interview",
+    "Managerial",
+    "HR"
+  ],
+  "salary": {
+    "intern": "$10-$20/hour",
+    "sde1": "$70k-$95k",
+    "sde2": "$95k-$135k"
+  },
+  "description": "TCS is a global IT services, consulting, and business solutions company offering software development and digital transformation services."
+}

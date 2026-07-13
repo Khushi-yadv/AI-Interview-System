@@ -1,0 +1,118 @@
+[
+  {
+    "id": "SORT001",
+    "title": "Sort Colors",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Sorting"
+    ],
+    "leetcode": "https://leetcode.com/problems/sort-colors/"
+  },
+  {
+    "id": "SORT002",
+    "title": "Merge Intervals",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Sorting"
+    ],
+    "leetcode": "https://leetcode.com/problems/merge-intervals/"
+  },
+  {
+    "id": "SORT003",
+    "title": "Largest Number",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Sorting"
+    ],
+    "leetcode": "https://leetcode.com/problems/largest-number/"
+  },
+  {
+    "id": "SORT004",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Sorting",
+      "Heap"
+    ],
+    "leetcode": "https://leetcode.com/problems/kth-largest-element-in-an-array/"
+  },
+  {
+    "id": "SORT005",
+    "title": "Maximum Gap",
+    "difficulty": "Hard",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Sorting"
+    ],
+    "leetcode": "https://leetcode.com/problems/maximum-gap/"
+  }
+]

@@ -1,0 +1,26 @@
+Job Title: Python Developer
+
+Required Skills:
+Python
+SQL
+Git
+GitHub
+HTML
+CSS
+JavaScript
+React
+Node.js
+Express.js
+MongoDB
+Docker
+REST API
+Object Oriented Programming
+
+Preferred Skills:
+Machine Learning
+TensorFlow
+AWS
+Linux
+
+Experience:
+Fresher / 0-2 Years

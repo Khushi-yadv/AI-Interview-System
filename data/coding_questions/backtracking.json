@@ -1,0 +1,117 @@
+[
+  {
+    "id": "BT001",
+    "title": "Subsets",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Backtracking"
+    ],
+    "leetcode": "https://leetcode.com/problems/subsets/"
+  },
+  {
+    "id": "BT002",
+    "title": "Permutations",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Backtracking"
+    ],
+    "leetcode": "https://leetcode.com/problems/permutations/"
+  },
+  {
+    "id": "BT003",
+    "title": "Combination Sum",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Backtracking"
+    ],
+    "leetcode": "https://leetcode.com/problems/combination-sum/"
+  },
+  {
+    "id": "BT004",
+    "title": "N-Queens",
+    "difficulty": "Hard",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Backtracking"
+    ],
+    "leetcode": "https://leetcode.com/problems/n-queens/"
+  },
+  {
+    "id": "BT005",
+    "title": "Word Search",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Backtracking"
+    ],
+    "leetcode": "https://leetcode.com/problems/word-search/"
+  }
+]

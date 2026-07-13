@@ -1,0 +1,120 @@
+[
+  {
+    "id": "GRA001",
+    "title": "Number of Islands",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Graph",
+      "BFS"
+    ],
+    "leetcode": "https://leetcode.com/problems/number-of-islands/"
+  },
+  {
+    "id": "GRA002",
+    "title": "Clone Graph",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Graph"
+    ],
+    "leetcode": "https://leetcode.com/problems/clone-graph/"
+  },
+  {
+    "id": "GRA003",
+    "title": "Course Schedule",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Graph",
+      "Topo Sort"
+    ],
+    "leetcode": "https://leetcode.com/problems/course-schedule/"
+  },
+  {
+    "id": "GRA004",
+    "title": "Pacific Atlantic Water Flow",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Graph"
+    ],
+    "leetcode": "https://leetcode.com/problems/pacific-atlantic-water-flow/"
+  },
+  {
+    "id": "GRA005",
+    "title": "Word Ladder",
+    "difficulty": "Hard",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Graph",
+      "BFS"
+    ],
+    "leetcode": "https://leetcode.com/problems/word-ladder/"
+  }
+]

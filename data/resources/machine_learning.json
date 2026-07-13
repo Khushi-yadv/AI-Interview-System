@@ -1,0 +1,39 @@
+{
+  "skill": "Machine Learning",
+  "roles": [
+    "Machine Learning Engineer",
+    "Data Scientist"
+  ],
+  "courses": [
+    {
+      "name": "Introduction to Machine Learning",
+      "platform": "Coursera",
+      "url": "https://www.coursera.org"
+    },
+    {
+      "name": "Machine Learning Complete Guide",
+      "platform": "Udemy",
+      "url": "https://www.udemy.com"
+    }
+  ],
+  "youtube": [
+    {
+      "channel": "freeCodeCamp",
+      "url": "https://www.youtube.com/@freecodecamp"
+    },
+    {
+      "channel": "CodeWithHarry",
+      "url": "https://www.youtube.com/@CodeWithHarry"
+    }
+  ],
+  "books": [
+    "Learning Machine Learning",
+    "Mastering Machine Learning",
+    "Machine Learning Handbook"
+  ],
+  "practice_websites": [
+    "https://leetcode.com",
+    "https://www.hackerrank.com",
+    "https://www.geeksforgeeks.org"
+  ]
+}

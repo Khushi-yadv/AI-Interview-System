@@ -1,0 +1,23 @@
+Job Title:Data Analyst
+
+Required Skills:
+
+SQL
+Oracle SQL
+Excel
+Python
+Pandas
+Tableau
+Power BI
+Statistics
+Data Visualization
+Data Cleaning
+
+Preferred Skills:
+
+Oracle Analytics Cloud
+ETL
+Data Warehousing
+Business Intelligence
+A/B Testing
+Oracle Autonomous Database

@@ -1,0 +1,46 @@
+{
+  "company": "Google",
+  "rounds": [
+    {
+      "round": 1,
+      "name": "Online Assessment",
+      "focus": [
+        "Data Structures",
+        "Algorithms",
+        "Coding"
+      ]
+    },
+    {
+      "round": 2,
+      "name": "Technical Interview 1",
+      "focus": [
+        "DSA",
+        "Problem Solving"
+      ]
+    },
+    {
+      "round": 3,
+      "name": "Technical Interview 2",
+      "focus": [
+        "System Design",
+        "Coding"
+      ]
+    },
+    {
+      "round": 4,
+      "name": "Googliness & Behavioral",
+      "focus": [
+        "Leadership",
+        "Communication",
+        "Teamwork"
+      ]
+    },
+    {
+      "round": 5,
+      "name": "Hiring Committee",
+      "focus": [
+        "Final Evaluation"
+      ]
+    }
+  ]
+}

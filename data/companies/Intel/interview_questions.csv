@@ -1,0 +1,122 @@
+Role,Difficulty,Question,Answer
+Role,Difficulty,Question,Answer
+Software Engineer,Easy,Explain Object-Oriented Programming (OOP).,"Object-Oriented Programming (OOP) is a programming paradigm based on objects. Its four pillars are Encapsulation, Abstraction, Inheritance, and Polymorphism, improving code reusability and maintainability."
+Software Engineer,Easy,What is a HashMap?,"HashMap stores key-value pairs using hashing and provides average O(1) insertion, deletion, and lookup."
+Software Engineer,Easy,Difference between Array and Linked List?,"Arrays provide fast random access using contiguous memory, whereas Linked Lists use nodes connected by pointers, making insertion and deletion easier."
+Software Engineer,Easy,What is recursion?,Recursion is a programming technique where a function calls itself until a base condition is reached.
+Software Engineer,Easy,What is time complexity?,Time complexity measures how the execution time of an algorithm grows with input size using Big O notation.
+Software Engineer,Medium,Difference between BFS and DFS?,"BFS explores nodes level by level using a queue, whereas DFS explores deeply using recursion or a stack."
+Software Engineer,Medium,Explain DBMS normalization.,"Normalization organizes database tables to reduce redundancy using 1NF, 2NF, 3NF, and BCNF."
+Software Engineer,Medium,What are ACID properties?,"Atomicity, Consistency, Isolation, and Durability ensure reliable database transactions."
+Software Engineer,Medium,Explain multithreading.,Multithreading allows multiple threads to execute concurrently within a process.
+Software Engineer,Medium,What is Dynamic Programming?,Dynamic Programming stores solutions to overlapping subproblems to improve efficiency.
+Software Engineer,Hard,Design an LRU Cache.,Implement using a HashMap and Doubly Linked List for O(1) get() and put() operations.
+Software Engineer,Hard,Explain CAP Theorem.,"Distributed systems can guarantee only two of Consistency, Availability, and Partition Tolerance simultaneously."
+Software Engineer,Hard,How would you optimize a slow application?,"Use profiling, optimize algorithms, improve queries, implement caching, and scale services."
+Software Engineer,Hard,Design a distributed logging system.,"Use Kafka, Elasticsearch, Logstash, Kibana, distributed storage, replication, monitoring, and fault tolerance."
+Software Engineer,Hard,Explain Microservices Architecture.,Microservices divide applications into independently deployable services communicating through APIs.
+Python Developer,Easy,Difference between List and Tuple?,Lists are mutable whereas tuples are immutable.
+Python Developer,Easy,What are Python decorators?,Decorators extend function behavior without modifying source code.
+Python Developer,Easy,What is a dictionary?,A dictionary stores key-value pairs with fast lookup using hashing.
+Python Developer,Easy,Explain lambda functions.,Lambda functions are anonymous functions consisting of a single expression.
+Python Developer,Easy,What are Python modules?,"Modules are reusable Python files containing functions, variables, and classes."
+Python Developer,Medium,Explain generators.,"Generators use yield to produce values lazily, reducing memory usage."
+Python Developer,Medium,Explain *args and **kwargs.,*args accepts variable positional arguments whereas **kwargs accepts variable keyword arguments.
+Python Developer,Medium,Explain list comprehension.,List comprehension provides concise syntax for generating lists.
+Python Developer,Medium,What is exception handling?,"Exception handling uses try, except, else, and finally blocks."
+Python Developer,Medium,What are virtual environments?,Virtual environments isolate project dependencies.
+Python Developer,Hard,Explain GIL.,The Global Interpreter Lock allows only one Python thread to execute bytecode at a time in CPython.
+Python Developer,Hard,Explain Python memory management.,Python uses reference counting and garbage collection.
+Python Developer,Hard,Multiprocessing vs Multithreading?,Multiprocessing is suitable for CPU-bound tasks whereas multithreading suits I/O-bound tasks.
+Python Developer,Hard,How would you optimize Python code?,"Profile code, improve algorithms, use caching, async programming, and multiprocessing."
+Python Developer,Hard,How would you build a scalable Python API?,"Use FastAPI, JWT authentication, async programming, database pooling, Redis caching, Docker, and Kubernetes."
+Machine Learning Engineer,Easy,What is Machine Learning?,Machine Learning enables systems to learn from data without explicit programming.
+Machine Learning Engineer,Easy,What is supervised learning?,Supervised learning trains models using labeled datasets.
+Machine Learning Engineer,Easy,Explain overfitting.,Overfitting occurs when a model memorizes training data and performs poorly on unseen data.
+Machine Learning Engineer,Easy,Classification vs Regression?,Classification predicts categories whereas regression predicts continuous values.
+Machine Learning Engineer,Easy,What is feature engineering?,Feature engineering creates meaningful input features from raw data.
+Machine Learning Engineer,Medium,Explain cross-validation.,Cross-validation evaluates model performance using multiple train-test splits.
+Machine Learning Engineer,Medium,Explain Gradient Descent.,Gradient Descent minimizes the loss function by iteratively updating parameters.
+Machine Learning Engineer,Medium,Decision Tree vs Random Forest?,Random Forest combines multiple Decision Trees to improve accuracy.
+Machine Learning Engineer,Medium,Explain Precision and Recall.,Precision measures prediction accuracy while Recall measures detection of actual positives.
+Machine Learning Engineer,Medium,Explain Confusion Matrix.,"Confusion Matrix summarizes classification performance using TP, TN, FP, and FN."
+Machine Learning Engineer,Hard,Bagging vs Boosting?,Bagging trains independent models whereas Boosting trains sequentially.
+Machine Learning Engineer,Hard,How would you detect hardware failures using ML?,"Collect sensor data, engineer features, train anomaly detection models, evaluate using Precision, Recall, and deploy for predictive maintenance."
+Machine Learning Engineer,Hard,Explain Transformers.,Transformers use self-attention mechanisms for efficient sequence modeling.
+Machine Learning Engineer,Hard,Deploy an ML model.,"Deploy using FastAPI, Docker, Kubernetes, cloud services, monitoring, and model versioning."
+Machine Learning Engineer,Hard,Optimize inference performance.,"Use quantization, pruning, ONNX Runtime, TensorRT, batching, and GPU acceleration."
+Data Analyst,Easy,INNER JOIN vs LEFT JOIN?,"INNER JOIN returns matching rows only, whereas LEFT JOIN returns all rows from the left table."
+Data Analyst,Easy,What is GROUP BY?,GROUP BY groups rows for aggregate calculations.
+Data Analyst,Easy,What is a primary key?,A primary key uniquely identifies each record.
+Data Analyst,Easy,What is data cleaning?,"Data cleaning removes duplicates, missing values, and inconsistencies."
+Data Analyst,Easy,NULL vs 0?,NULL represents unknown values whereas 0 is an actual numeric value.
+Data Analyst,Medium,SQL query for second highest salary.,SELECT MAX(salary) FROM employees WHERE salary < (SELECT MAX(salary) FROM employees);
+Data Analyst,Medium,WHERE vs HAVING?,WHERE filters rows before grouping whereas HAVING filters grouped results.
+Data Analyst,Medium,Explain window functions.,Window functions perform calculations across related rows without grouping.
+Data Analyst,Medium,Explain normalization.,Normalization reduces redundancy and improves database integrity.
+Data Analyst,Medium,How would you analyze manufacturing data?,"Analyze production KPIs, defect rates, machine utilization, downtime, yield, and trends using SQL and BI tools."
+Data Analyst,Hard,Explain ETL.,"ETL stands for Extract, Transform, and Load."
+Data Analyst,Hard,Optimize a slow SQL query.,"Use indexing, optimized joins, execution plans, and efficient filtering."
+Data Analyst,Hard,Star Schema vs Snowflake Schema?,Star Schema is denormalized whereas Snowflake Schema normalizes dimension tables.
+Data Analyst,Hard,How would you build a manufacturing dashboard?,"Track KPIs such as production, quality, downtime, throughput, and defect rates using Power BI or Tableau."
+Data Analyst,Hard,How would you identify production bottlenecks?,"Analyze throughput, cycle time, machine utilization, downtime, queue lengths, and defect rates to identify and prioritize process improvements."
+Data Scientist,Easy,What is Data Science?,"Data Science combines statistics, programming, and machine learning to extract valuable insights from structured and unstructured data."
+Data Scientist,Easy,Supervised vs Unsupervised Learning?,"Supervised learning uses labeled data, whereas unsupervised learning discovers hidden patterns in unlabeled data."
+Data Scientist,Easy,What is overfitting?,Overfitting occurs when a model performs well on training data but poorly on unseen data.
+Data Scientist,Easy,What is feature engineering?,Feature engineering transforms raw data into meaningful features to improve model performance.
+Data Scientist,Easy,What is a confusion matrix?,"A confusion matrix evaluates classification models using TP, TN, FP, and FN."
+Data Scientist,Medium,Explain Gradient Descent.,Gradient Descent minimizes the loss function by iteratively updating model parameters.
+Data Scientist,Medium,Explain cross-validation.,Cross-validation evaluates model performance using multiple train-test splits.
+Data Scientist,Medium,Decision Tree vs Random Forest?,Random Forest combines multiple Decision Trees to improve prediction accuracy.
+Data Scientist,Medium,Explain Precision," Recall, and F1-score.,Precision measures prediction accuracy, Recall measures detection of actual positives, and F1-score balances both."
+Data Scientist,Medium,How would you perform feature selection?,"Use correlation analysis, Recursive Feature Elimination, Lasso Regression, and feature importance."
+Data Scientist,Hard,Explain PCA.,Principal Component Analysis reduces dimensionality while preserving maximum variance.
+Data Scientist,Hard,How would you predict hardware failures?,"Collect sensor data, perform feature engineering, train anomaly detection or predictive models, and monitor predictions continuously."
+Data Scientist,Hard,Explain bias-variance tradeoff.,"Bias results from oversimplified assumptions, whereas variance results from excessive sensitivity to training data."
+Data Scientist,Hard,Deploy an ML model.,"Deploy using FastAPI, Docker, Kubernetes, cloud infrastructure, monitoring, and model versioning."
+Data Scientist,Hard,How would you forecast semiconductor demand?,"Use historical sales, seasonal trends, economic indicators, ARIMA, Prophet, or LSTM models and evaluate using RMSE."
+Backend Developer,Easy,What is REST API?,REST API is an architectural style that enables communication between clients and servers using HTTP methods.
+Backend Developer,Easy,GET vs POST?,"GET retrieves resources, whereas POST creates or modifies resources."
+Backend Developer,Easy,What is JSON?,JSON is a lightweight format used for exchanging structured data.
+Backend Developer,Easy,SQL vs NoSQL?,SQL databases are relational whereas NoSQL databases provide flexible schemas and scalability.
+Backend Developer,Easy,What is authentication?,"Authentication verifies user identity using passwords, JWT, OAuth, or MFA."
+Backend Developer,Medium,Explain JWT Authentication.,JWT securely authenticates users using digitally signed tokens.
+Backend Developer,Medium,What is database indexing?,Indexes improve query performance by reducing lookup time.
+Backend Developer,Medium,Explain connection pooling.,Connection pooling reuses existing database connections to improve efficiency.
+Backend Developer,Medium,What is caching?,Caching stores frequently accessed data in Redis or Memcached to reduce latency.
+Backend Developer,Medium,Explain ACID transactions.,"ACID ensures reliable database transactions through Atomicity, Consistency, Isolation, and Durability."
+Backend Developer,Hard,Design a telemetry data ingestion system.,"Use REST APIs, Kafka, distributed processing, scalable databases, caching, monitoring, and fault tolerance for high-volume telemetry."
+Backend Developer,Hard,Explain Microservices Architecture.,Microservices split applications into independently deployable services communicating through APIs or messaging.
+Backend Developer,Hard,How would you scale backend services?,"Use Kubernetes, Redis, load balancing, database replication, asynchronous processing, and auto-scaling."
+Backend Developer,Hard,Explain message queues.,Kafka and RabbitMQ enable asynchronous communication and improve scalability.
+Backend Developer,Hard,How would you secure backend APIs?,"Use HTTPS, JWT, OAuth, RBAC, encryption, input validation, rate limiting, and audit logging."
+Frontend Developer,Easy,What is Virtual DOM?,Virtual DOM is a lightweight copy of the real DOM used by React for efficient updates.
+Frontend Developer,Easy,HTML vs HTML5?,"HTML5 introduced semantic tags, multimedia support, local storage, canvas, and modern APIs."
+Frontend Developer,Easy,What is CSS Flexbox?,Flexbox simplifies alignment and layout of elements.
+Frontend Developer,Easy,var vs let vs const?,"var is function-scoped, let is block-scoped and mutable, whereas const is block-scoped and immutable."
+Frontend Developer,Easy,What is event bubbling?,Event bubbling propagates events from child elements to parent elements.
+Frontend Developer,Medium,Explain React Hooks.,Hooks such as useState and useEffect enable state management and lifecycle handling.
+Frontend Developer,Medium,State vs Props?,Props are passed from parent components whereas state is managed within components.
+Frontend Developer,Medium,Explain asynchronous JavaScript.,"Async JavaScript uses callbacks, Promises, async/await, and the event loop."
+Frontend Developer,Medium,Responsive web design?,Responsive design adapts websites to different devices using flexible layouts and media queries.
+Frontend Developer,Medium,How would you improve frontend performance?,"Use lazy loading, caching, optimized images, memoization, CDN, and code splitting."
+Frontend Developer,Hard,Explain React reconciliation.,React updates only modified DOM elements by comparing Virtual DOM trees.
+Frontend Developer,Hard,Optimize a React application.,"Use memoization, virtualization, lazy loading, bundle optimization, and efficient state management."
+Frontend Developer,Hard,Explain SSR.,Server-Side Rendering improves SEO and initial page load performance.
+Frontend Developer,Hard,What are WebSockets?,WebSockets enable real-time bidirectional communication.
+Frontend Developer,Hard,How would you build a dashboard for hardware monitoring?,"Develop reusable components, integrate charts, enable real-time updates using WebSockets, optimize rendering, and ensure responsive design."
+Full Stack Developer,Easy,Frontend vs Backend?,"Frontend builds the user interface whereas backend manages business logic, APIs, and databases."
+Full Stack Developer,Easy,What is REST API?,REST API enables communication between client and server using HTTP methods.
+Full Stack Developer,Easy,What is JSON?,JSON is a lightweight format for exchanging structured data.
+Full Stack Developer,Easy,What is Git?,Git is a distributed version control system used to manage source code.
+Full Stack Developer,Easy,What is MVC architecture?,"MVC separates applications into Model, View, and Controller layers."
+Full Stack Developer,Medium,How does React communicate with backend?,React communicates using REST APIs or GraphQL through Fetch API or Axios.
+Full Stack Developer,Medium,Explain CRUD operations.,"CRUD stands for Create, Read, Update, and Delete."
+Full Stack Developer,Medium,What is CORS?,CORS enables controlled cross-origin communication using HTTP headers.
+Full Stack Developer,Medium,Explain JWT Authentication.,JWT authenticates users using secure signed tokens.
+Full Stack Developer,Medium,Explain normalization.,Normalization reduces redundancy and improves database consistency.
+Full Stack Developer,Hard,Design an IoT monitoring platform.,"Build scalable microservices, telemetry ingestion, REST APIs, real-time dashboards, authentication, caching, distributed databases, monitoring, and CI/CD pipelines."
+Full Stack Developer,Hard,Explain Docker.,Docker packages applications and dependencies into portable containers.
+Full Stack Developer,Hard,What is CI/CD?,"CI/CD automates building, testing, and deployment for faster software delivery."
+Full Stack Developer,Hard,How would you secure a full stack application?,"Use HTTPS, JWT, OAuth, password hashing, RBAC, secure APIs, encryption, and protection against SQL injection and XSS."
+Full Stack Developer,Hard,Explain Microservices Architecture.,Microservices divide applications into independently deployable services communicating via APIs or message queues.

@@ -1,0 +1,23 @@
+Job Title:Backend Developer
+
+Required Skills:
+
+C#
+.NET Core
+Java
+Python
+REST APIs
+SQL
+DBMS
+Git
+Authentication (JWT/OAuth)
+Microservices
+
+Preferred Skills:
+
+Azure
+Redis
+Kafka
+Docker
+Kubernetes
+System Design

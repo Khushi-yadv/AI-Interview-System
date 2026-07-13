@@ -1,0 +1,42 @@
+{
+  "skill": "Dsa",
+  "roles": [
+    "Software Engineer",
+    "Backend Developer",
+    "Frontend Developer",
+    "Full Stack Developer",
+    "Machine Learning Engineer"
+  ],
+  "courses": [
+    {
+      "name": "Introduction to Dsa",
+      "platform": "Coursera",
+      "url": "https://www.coursera.org"
+    },
+    {
+      "name": "Dsa Complete Guide",
+      "platform": "Udemy",
+      "url": "https://www.udemy.com"
+    }
+  ],
+  "youtube": [
+    {
+      "channel": "freeCodeCamp",
+      "url": "https://www.youtube.com/@freecodecamp"
+    },
+    {
+      "channel": "CodeWithHarry",
+      "url": "https://www.youtube.com/@CodeWithHarry"
+    }
+  ],
+  "books": [
+    "Learning Dsa",
+    "Mastering Dsa",
+    "Dsa Handbook"
+  ],
+  "practice_websites": [
+    "https://leetcode.com",
+    "https://www.hackerrank.com",
+    "https://www.geeksforgeeks.org"
+  ]
+}

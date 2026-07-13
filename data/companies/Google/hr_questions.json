@@ -1,0 +1,75 @@
+{
+  "company": "IBM",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Company",
+      "difficulty": "Easy",
+      "question": "Why do you want to work at IBM?",
+      "answer": "Explain your interest in IBM's innovation, hybrid cloud, AI technologies, research culture, and career growth opportunities."
+    },
+    {
+      "id": 2,
+      "category": "Innovation",
+      "difficulty": "Medium",
+      "question": "Tell me about a project where you solved a business problem using technology.",
+      "answer": "Use the STAR method to explain the problem, your solution, technologies used, and measurable impact."
+    },
+    {
+      "id": 3,
+      "category": "Teamwork",
+      "difficulty": "Medium",
+      "question": "Describe a time you worked with a diverse team.",
+      "answer": "Explain how you collaborated, communicated effectively, and achieved the project goals."
+    },
+    {
+      "id": 4,
+      "category": "Problem Solving",
+      "difficulty": "Hard",
+      "question": "Describe the most challenging technical problem you have solved.",
+      "answer": "Explain your analysis, approach, implementation, and final outcome."
+    },
+    {
+      "id": 5,
+      "category": "Learning",
+      "difficulty": "Easy",
+      "question": "How do you keep yourself updated with new technologies?",
+      "answer": "Mention certifications, documentation, technical blogs, research papers, and hands-on projects."
+    },
+    {
+      "id": 6,
+      "category": "Leadership",
+      "difficulty": "Medium",
+      "question": "Tell me about a time you took ownership of a project.",
+      "answer": "Describe how you identified a problem, took responsibility, and delivered results."
+    },
+    {
+      "id": 7,
+      "category": "Adaptability",
+      "difficulty": "Medium",
+      "question": "Describe a time you had to quickly adapt to a new technology.",
+      "answer": "Explain your learning process and how you successfully applied the new technology."
+    },
+    {
+      "id": 8,
+      "category": "Communication",
+      "difficulty": "Easy",
+      "question": "How do you explain technical concepts to business stakeholders?",
+      "answer": "Use simple language, real-world examples, and focus on business value."
+    },
+    {
+      "id": 9,
+      "category": "Quality",
+      "difficulty": "Medium",
+      "question": "How do you ensure software quality in your projects?",
+      "answer": "Discuss testing, documentation, code reviews, and continuous improvement."
+    },
+    {
+      "id": 10,
+      "category": "Company",
+      "difficulty": "Easy",
+      "question": "Why should IBM hire you?",
+      "answer": "Highlight your technical expertise, teamwork, problem-solving skills, and willingness to learn."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "skill": "Computer Networks",
+  "roles": [
+    "Software Engineer",
+    "Backend Developer",
+    "Python Developer"
+  ],
+  "courses": [
+    {
+      "name": "Introduction to Computer Networks",
+      "platform": "Coursera",
+      "url": "https://www.coursera.org"
+    },
+    {
+      "name": "Computer Networks Complete Guide",
+      "platform": "Udemy",
+      "url": "https://www.udemy.com"
+    }
+  ],
+  "youtube": [
+    {
+      "channel": "freeCodeCamp",
+      "url": "https://www.youtube.com/@freecodecamp"
+    },
+    {
+      "channel": "CodeWithHarry",
+      "url": "https://www.youtube.com/@CodeWithHarry"
+    }
+  ],
+  "books": [
+    "Learning Computer Networks",
+    "Mastering Computer Networks",
+    "Computer Networks Handbook"
+  ],
+  "practice_websites": [
+    "https://leetcode.com",
+    "https://www.hackerrank.com",
+    "https://www.geeksforgeeks.org"
+  ]
+}

@@ -1,0 +1,119 @@
+[
+  {
+    "id": "LL001",
+    "title": "Reverse Linked List",
+    "difficulty": "Easy",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Linked List"
+    ],
+    "leetcode": "https://leetcode.com/problems/reverse-linked-list/"
+  },
+  {
+    "id": "LL002",
+    "title": "Merge Two Sorted Lists",
+    "difficulty": "Easy",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Linked List"
+    ],
+    "leetcode": "https://leetcode.com/problems/merge-two-sorted-lists/"
+  },
+  {
+    "id": "LL003",
+    "title": "Linked List Cycle",
+    "difficulty": "Easy",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Linked List",
+      "Two Pointers"
+    ],
+    "leetcode": "https://leetcode.com/problems/linked-list-cycle/"
+  },
+  {
+    "id": "LL004",
+    "title": "Add Two Numbers",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Linked List"
+    ],
+    "leetcode": "https://leetcode.com/problems/add-two-numbers/"
+  },
+  {
+    "id": "LL005",
+    "title": "LRU Cache",
+    "difficulty": "Hard",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Linked List",
+      "Design"
+    ],
+    "leetcode": "https://leetcode.com/problems/lru-cache/"
+  }
+]

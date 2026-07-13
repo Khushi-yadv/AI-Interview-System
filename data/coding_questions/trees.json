@@ -1,0 +1,118 @@
+[
+  {
+    "id": "TRE001",
+    "title": "Maximum Depth of Binary Tree",
+    "difficulty": "Easy",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Tree"
+    ],
+    "leetcode": "https://leetcode.com/problems/maximum-depth-of-binary-tree/"
+  },
+  {
+    "id": "TRE002",
+    "title": "Same Tree",
+    "difficulty": "Easy",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Tree"
+    ],
+    "leetcode": "https://leetcode.com/problems/same-tree/"
+  },
+  {
+    "id": "TRE003",
+    "title": "Binary Tree Level Order Traversal",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Tree",
+      "BFS"
+    ],
+    "leetcode": "https://leetcode.com/problems/binary-tree-level-order-traversal/"
+  },
+  {
+    "id": "TRE004",
+    "title": "Validate Binary Search Tree",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Tree"
+    ],
+    "leetcode": "https://leetcode.com/problems/validate-binary-search-tree/"
+  },
+  {
+    "id": "TRE005",
+    "title": "Binary Tree Maximum Path Sum",
+    "difficulty": "Hard",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Tree"
+    ],
+    "leetcode": "https://leetcode.com/problems/binary-tree-maximum-path-sum/"
+  }
+]

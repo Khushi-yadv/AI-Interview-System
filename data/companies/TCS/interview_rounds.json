@@ -1,0 +1,20 @@
+{
+  "company": "TCS",
+  "rounds": [
+    {
+      "round": 1,
+      "name": "TCS NQT",
+      "focus": ["Coding", "Aptitude", "Reasoning"]
+    },
+    {
+      "round": 2,
+      "name": "Technical Interview",
+      "focus": ["Programming", "Projects", "DBMS"]
+    },
+    {
+      "round": 3,
+      "name": "HR Interview",
+      "focus": ["Behavioral", "Communication"]
+    }
+  ]
+}

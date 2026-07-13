@@ -1,0 +1,75 @@
+{
+  "company": "Adobe",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Company",
+      "difficulty": "Easy",
+      "question": "Why do you want to work at Adobe?",
+      "answer": "Discuss Adobe's leadership in creative software, digital experience solutions, innovation, and opportunities for growth."
+    },
+    {
+      "id": 2,
+      "category": "Innovation",
+      "difficulty": "Medium",
+      "question": "Tell me about a creative solution you developed.",
+      "answer": "Use the STAR method to explain the problem, your idea, implementation, and measurable impact."
+    },
+    {
+      "id": 3,
+      "category": "Customer Focus",
+      "difficulty": "Medium",
+      "question": "How do you ensure your product meets user needs?",
+      "answer": "Discuss gathering feedback, usability testing, continuous improvements, and focusing on user experience."
+    },
+    {
+      "id": 4,
+      "category": "Problem Solving",
+      "difficulty": "Hard",
+      "question": "Describe a difficult technical challenge you solved.",
+      "answer": "Explain your analysis, solution, implementation, and final outcome."
+    },
+    {
+      "id": 5,
+      "category": "Teamwork",
+      "difficulty": "Medium",
+      "question": "Tell me about a successful team project.",
+      "answer": "Describe your role, collaboration, communication, and project results."
+    },
+    {
+      "id": 6,
+      "category": "Adaptability",
+      "difficulty": "Medium",
+      "question": "Describe a time you adapted to changing project requirements.",
+      "answer": "Explain how you adjusted priorities while maintaining quality."
+    },
+    {
+      "id": 7,
+      "category": "Learning",
+      "difficulty": "Easy",
+      "question": "How do you keep your technical skills up to date?",
+      "answer": "Mention documentation, courses, conferences, blogs, and personal projects."
+    },
+    {
+      "id": 8,
+      "category": "Leadership",
+      "difficulty": "Medium",
+      "question": "Tell me about a time you took initiative.",
+      "answer": "Describe a situation where you proactively solved a problem or improved a process."
+    },
+    {
+      "id": 9,
+      "category": "Quality",
+      "difficulty": "Medium",
+      "question": "How do you ensure high-quality software delivery?",
+      "answer": "Discuss testing, code reviews, documentation, and continuous integration practices."
+    },
+    {
+      "id": 10,
+      "category": "Company",
+      "difficulty": "Easy",
+      "question": "Why should Adobe hire you?",
+      "answer": "Highlight your technical skills, creativity, teamwork, and passion for building user-focused products."
+    }
+  ]
+}

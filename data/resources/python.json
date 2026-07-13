@@ -1,0 +1,43 @@
+{
+  "skill": "Python",
+  "roles": [
+    "Python Developer",
+    "Backend Developer",
+    "Machine Learning Engineer",
+    "Data Scientist",
+    "Data Analyst",
+    "Software Engineer"
+  ],
+  "courses": [
+    {
+      "name": "Introduction to Python",
+      "platform": "Coursera",
+      "url": "https://www.coursera.org"
+    },
+    {
+      "name": "Python Complete Guide",
+      "platform": "Udemy",
+      "url": "https://www.udemy.com"
+    }
+  ],
+  "youtube": [
+    {
+      "channel": "freeCodeCamp",
+      "url": "https://www.youtube.com/@freecodecamp"
+    },
+    {
+      "channel": "CodeWithHarry",
+      "url": "https://www.youtube.com/@CodeWithHarry"
+    }
+  ],
+  "books": [
+    "Learning Python",
+    "Mastering Python",
+    "Python Handbook"
+  ],
+  "practice_websites": [
+    "https://leetcode.com",
+    "https://www.hackerrank.com",
+    "https://www.geeksforgeeks.org"
+  ]
+}

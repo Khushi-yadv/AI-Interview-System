@@ -1,0 +1,39 @@
+{
+  "skill": "Kubernetes",
+  "roles": [
+    "Backend Developer",
+    "Machine Learning Engineer"
+  ],
+  "courses": [
+    {
+      "name": "Introduction to Kubernetes",
+      "platform": "Coursera",
+      "url": "https://www.coursera.org"
+    },
+    {
+      "name": "Kubernetes Complete Guide",
+      "platform": "Udemy",
+      "url": "https://www.udemy.com"
+    }
+  ],
+  "youtube": [
+    {
+      "channel": "freeCodeCamp",
+      "url": "https://www.youtube.com/@freecodecamp"
+    },
+    {
+      "channel": "CodeWithHarry",
+      "url": "https://www.youtube.com/@CodeWithHarry"
+    }
+  ],
+  "books": [
+    "Learning Kubernetes",
+    "Mastering Kubernetes",
+    "Kubernetes Handbook"
+  ],
+  "practice_websites": [
+    "https://leetcode.com",
+    "https://www.hackerrank.com",
+    "https://www.geeksforgeeks.org"
+  ]
+}

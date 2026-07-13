@@ -1,0 +1,75 @@
+{
+  "company": "Meta",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Company",
+      "difficulty": "Easy",
+      "question": "Why do you want to work at Meta?",
+      "answer": "Explain your interest in Meta's products, AI innovation, open-source contributions, and global impact."
+    },
+    {
+      "id": 2,
+      "category": "Culture",
+      "difficulty": "Medium",
+      "question": "How do you handle fast-paced environments?",
+      "answer": "Describe how you prioritize tasks, adapt quickly, and maintain quality under pressure."
+    },
+    {
+      "id": 3,
+      "category": "Innovation",
+      "difficulty": "Medium",
+      "question": "Tell me about a product or feature you improved.",
+      "answer": "Explain the problem, your solution, and its measurable impact."
+    },
+    {
+      "id": 4,
+      "category": "Problem Solving",
+      "difficulty": "Hard",
+      "question": "Describe a time you solved a complex technical problem.",
+      "answer": "Use the STAR method and explain your approach and results."
+    },
+    {
+      "id": 5,
+      "category": "Teamwork",
+      "difficulty": "Medium",
+      "question": "Tell me about a successful cross-functional collaboration.",
+      "answer": "Describe how you worked with different teams to achieve a common goal."
+    },
+    {
+      "id": 6,
+      "category": "Leadership",
+      "difficulty": "Medium",
+      "question": "Describe a time you influenced others without authority.",
+      "answer": "Explain how you gained trust and convinced others through communication and data."
+    },
+    {
+      "id": 7,
+      "category": "Learning",
+      "difficulty": "Easy",
+      "question": "How do you learn new technologies quickly?",
+      "answer": "Mention documentation, projects, courses, and hands-on practice."
+    },
+    {
+      "id": 8,
+      "category": "Conflict Resolution",
+      "difficulty": "Medium",
+      "question": "Describe a disagreement with a teammate.",
+      "answer": "Explain how you resolved it respectfully while keeping project goals in focus."
+    },
+    {
+      "id": 9,
+      "category": "Career",
+      "difficulty": "Easy",
+      "question": "What excites you most about working at Meta?",
+      "answer": "Discuss innovation, scale, AI, and opportunities to build impactful products."
+    },
+    {
+      "id": 10,
+      "category": "Company",
+      "difficulty": "Easy",
+      "question": "How can you contribute to Meta's mission?",
+      "answer": "Explain how your skills and projects can help build products that connect people and create value."
+    }
+  ]
+}

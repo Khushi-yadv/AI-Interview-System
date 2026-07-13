@@ -1,0 +1,23 @@
+Job Title:Python Developer
+
+Required Skills:
+
+Python
+Django / Flask / FastAPI
+REST APIs
+SQL
+Oracle SQL
+NumPy
+Pandas
+Git
+Object-Oriented Programming
+Unit Testing
+
+Preferred Skills:
+
+Docker
+Redis
+Celery
+Oracle Cloud Infrastructure (OCI)
+Async Programming
+Microservices

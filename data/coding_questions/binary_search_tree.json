@@ -1,0 +1,117 @@
+[
+  {
+    "id": "BST001",
+    "title": "Search in a Binary Search Tree",
+    "difficulty": "Easy",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "BST"
+    ],
+    "leetcode": "https://leetcode.com/problems/search-in-a-binary-search-tree/"
+  },
+  {
+    "id": "BST002",
+    "title": "Insert into a Binary Search Tree",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "BST"
+    ],
+    "leetcode": "https://leetcode.com/problems/insert-into-a-binary-search-tree/"
+  },
+  {
+    "id": "BST003",
+    "title": "Delete Node in a BST",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "BST"
+    ],
+    "leetcode": "https://leetcode.com/problems/delete-node-in-a-bst/"
+  },
+  {
+    "id": "BST004",
+    "title": "Lowest Common Ancestor of a BST",
+    "difficulty": "Easy",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "BST"
+    ],
+    "leetcode": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/"
+  },
+  {
+    "id": "BST005",
+    "title": "Recover Binary Search Tree",
+    "difficulty": "Hard",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "BST"
+    ],
+    "leetcode": "https://leetcode.com/problems/recover-binary-search-tree/"
+  }
+]

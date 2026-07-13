@@ -1,0 +1,51 @@
+{
+  "company": "Google",
+  "parent_company": "Alphabet Inc.",
+  "founded": 1998,
+  "founders": [
+    "Larry Page",
+    "Sergey Brin"
+  ],
+  "ceo": "Sundar Pichai",
+  "headquarters": "Mountain View, California, USA",
+  "industry": "Technology",
+  "employees": "180000+",
+  "website": "https://about.google",
+  "careers": "https://careers.google.com",
+  "internships": true,
+  "work_model": [
+    "Hybrid",
+    "On-site"
+  ],
+  "products": [
+    "Google Search",
+    "YouTube",
+    "Android",
+    "Chrome",
+    "Google Cloud",
+    "Gemini",
+    "Google Maps",
+    "Gmail"
+  ],
+  "tech_stack": [
+    "C++",
+    "Java",
+    "Python",
+    "Go",
+    "Kubernetes",
+    "TensorFlow"
+  ],
+  "interview_process": [
+    "Online Assessment",
+    "Technical Interviews",
+    "System Design",
+    "Behavioral",
+    "Hiring Committee"
+  ],
+  "salary": {
+    "intern": "$40-$60/hour",
+    "sde1": "$170k-$210k",
+    "sde2": "$250k-$350k"
+  },
+  "description": "Google is a global technology company specializing in search, cloud computing, artificial intelligence, and consumer software."
+}

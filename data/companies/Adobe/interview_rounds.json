@@ -1,0 +1,25 @@
+{
+  "company": "Adobe",
+  "rounds": [
+    {
+      "round": 1,
+      "name": "Online Coding Test",
+      "focus": ["Coding", "MCQs"]
+    },
+    {
+      "round": 2,
+      "name": "Technical Interview",
+      "focus": ["DSA", "OOP", "Projects"]
+    },
+    {
+      "round": 3,
+      "name": "Managerial Interview",
+      "focus": ["Problem Solving", "Communication"]
+    },
+    {
+      "round": 4,
+      "name": "HR Interview",
+      "focus": ["Behavioral", "Company Fit"]
+    }
+  ]
+}

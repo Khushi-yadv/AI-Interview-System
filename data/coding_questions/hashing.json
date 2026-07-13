@@ -1,0 +1,119 @@
+[
+  {
+    "id": "HASH001",
+    "title": "Two Sum",
+    "difficulty": "Easy",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Hash Map"
+    ],
+    "leetcode": "https://leetcode.com/problems/two-sum/"
+  },
+  {
+    "id": "HASH002",
+    "title": "Valid Anagram",
+    "difficulty": "Easy",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Hash Map",
+      "String"
+    ],
+    "leetcode": "https://leetcode.com/problems/valid-anagram/"
+  },
+  {
+    "id": "HASH003",
+    "title": "Group Anagrams",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Hash Map"
+    ],
+    "leetcode": "https://leetcode.com/problems/group-anagrams/"
+  },
+  {
+    "id": "HASH004",
+    "title": "Top K Frequent Elements",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Hash Map",
+      "Heap"
+    ],
+    "leetcode": "https://leetcode.com/problems/top-k-frequent-elements/"
+  },
+  {
+    "id": "HASH005",
+    "title": "Longest Consecutive Sequence",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Hash Set"
+    ],
+    "leetcode": "https://leetcode.com/problems/longest-consecutive-sequence/"
+  }
+]

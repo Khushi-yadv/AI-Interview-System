@@ -1,0 +1,117 @@
+[
+  {
+    "id": "DP001",
+    "title": "Climbing Stairs",
+    "difficulty": "Easy",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "DP"
+    ],
+    "leetcode": "https://leetcode.com/problems/climbing-stairs/"
+  },
+  {
+    "id": "DP002",
+    "title": "House Robber",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "DP"
+    ],
+    "leetcode": "https://leetcode.com/problems/house-robber/"
+  },
+  {
+    "id": "DP003",
+    "title": "Coin Change",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "DP"
+    ],
+    "leetcode": "https://leetcode.com/problems/coin-change/"
+  },
+  {
+    "id": "DP004",
+    "title": "Longest Increasing Subsequence",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "DP"
+    ],
+    "leetcode": "https://leetcode.com/problems/longest-increasing-subsequence/"
+  },
+  {
+    "id": "DP005",
+    "title": "Edit Distance",
+    "difficulty": "Hard",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "DP"
+    ],
+    "leetcode": "https://leetcode.com/problems/edit-distance/"
+  }
+]

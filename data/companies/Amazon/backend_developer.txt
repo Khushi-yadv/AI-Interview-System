@@ -1,0 +1,23 @@
+Job Title:Backend Developer
+
+Required Skills:
+
+Java
+Python
+Go
+REST APIs
+SQL
+DBMS
+Git
+Authentication (JWT/OAuth)
+Microservices
+Data Structures
+
+Preferred Skills:
+
+Redis
+Kafka
+Docker
+Kubernetes
+AWS
+System Design

@@ -1,0 +1,43 @@
+{
+  "company": "IBM",
+  "parent_company": "International Business Machines Corporation",
+  "founded": 1911,
+  "founders": [
+    "Charles Ranlett Flint"
+  ],
+  "ceo": "Arvind Krishna",
+  "headquarters": "Armonk, New York, USA",
+  "industry": "Technology",
+  "employees": "280000+",
+  "website": "https://www.ibm.com",
+  "careers": "https://www.ibm.com/careers",
+  "internships": true,
+  "work_model": [
+    "Hybrid"
+  ],
+  "products": [
+    "Watsonx",
+    "Red Hat OpenShift",
+    "IBM Cloud",
+    "Db2"
+  ],
+  "tech_stack": [
+    "Java",
+    "Python",
+    "C++",
+    "Go",
+    "Kubernetes"
+  ],
+  "interview_process": [
+    "Online Assessment",
+    "Technical Interviews",
+    "Managerial",
+    "HR"
+  ],
+  "salary": {
+    "intern": "$25-$40/hour",
+    "sde1": "$110k-$150k",
+    "sde2": "$160k-$220k"
+  },
+  "description": "IBM develops enterprise software, cloud platforms, AI solutions, and consulting services."
+}

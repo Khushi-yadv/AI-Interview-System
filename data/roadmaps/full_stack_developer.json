@@ -1,0 +1,122 @@
+{
+  "career": "Full Stack Developer",
+  "description": "A Full Stack Developer builds complete web applications by working on both the frontend and backend, databases, APIs, deployment, and version control.",
+
+  "steps": [
+    {
+      "step": 1,
+      "title": "Programming Fundamentals",
+      "topics": [
+        "C++ or Java or Python",
+        "Problem Solving",
+        "Object-Oriented Programming (OOP)"
+      ]
+    },
+    {
+      "step": 2,
+      "title": "Frontend Development",
+      "topics": [
+        "HTML5",
+        "CSS3",
+        "JavaScript (ES6+)",
+        "Responsive Design",
+        "Bootstrap",
+        "Tailwind CSS",
+        "React"
+      ]
+    },
+    {
+      "step": 3,
+      "title": "Backend Development",
+      "topics": [
+        "Node.js",
+        "Express.js",
+        "Flask or Django",
+        "REST APIs",
+        "Authentication (JWT)",
+        "API Testing (Postman)"
+      ]
+    },
+    {
+      "step": 4,
+      "title": "Database Management",
+      "topics": [
+        "SQL",
+        "MySQL",
+        "PostgreSQL",
+        "MongoDB",
+        "Database Design"
+      ]
+    },
+    {
+      "step": 5,
+      "title": "Version Control",
+      "topics": [
+        "Git",
+        "GitHub",
+        "Branching",
+        "Pull Requests"
+      ]
+    },
+    {
+      "step": 6,
+      "title": "Data Structures & Algorithms",
+      "topics": [
+        "Arrays",
+        "Strings",
+        "Linked Lists",
+        "Stacks",
+        "Queues",
+        "Trees",
+        "Graphs",
+        "Hashing",
+        "Recursion",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "step": 7,
+      "title": "Core Computer Science",
+      "topics": [
+        "DBMS",
+        "Operating System",
+        "Computer Networks",
+        "SQL",
+        "OOP"
+      ]
+    },
+    {
+      "step": 8,
+      "title": "Cloud & DevOps",
+      "topics": [
+        "Docker",
+        "Kubernetes",
+        "AWS Basics",
+        "CI/CD"
+      ]
+    },
+    {
+      "step": 9,
+      "title": "Projects",
+      "topics": [
+        "Portfolio Website",
+        "Blog Application",
+        "E-commerce Website",
+        "Chat Application",
+        "AI-Based Project"
+      ]
+    },
+    {
+      "step": 10,
+      "title": "Interview Preparation",
+      "topics": [
+        "Resume Building",
+        "Aptitude",
+        "HR Interview",
+        "Behavioral Questions",
+        "Mock Interviews",
+        "Company-wise Preparation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+[
+  {
+    "id": "INT001",
+    "title": "Merge Intervals",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Intervals"
+    ],
+    "leetcode": "https://leetcode.com/problems/merge-intervals/"
+  },
+  {
+    "id": "INT002",
+    "title": "Insert Interval",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Intervals"
+    ],
+    "leetcode": "https://leetcode.com/problems/insert-interval/"
+  },
+  {
+    "id": "INT003",
+    "title": "Non-overlapping Intervals",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Intervals"
+    ],
+    "leetcode": "https://leetcode.com/problems/non-overlapping-intervals/"
+  },
+  {
+    "id": "INT004",
+    "title": "Meeting Rooms II",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Intervals"
+    ],
+    "leetcode": "https://leetcode.com/problems/meeting-rooms-ii/"
+  },
+  {
+    "id": "INT005",
+    "title": "Minimum Number of Arrows to Burst Balloons",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Intervals"
+    ],
+    "leetcode": "https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/"
+  }
+]

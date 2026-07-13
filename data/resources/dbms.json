@@ -1,0 +1,41 @@
+{
+  "skill": "Dbms",
+  "roles": [
+    "Software Engineer",
+    "Backend Developer",
+    "Full Stack Developer",
+    "Python Developer"
+  ],
+  "courses": [
+    {
+      "name": "Introduction to Dbms",
+      "platform": "Coursera",
+      "url": "https://www.coursera.org"
+    },
+    {
+      "name": "Dbms Complete Guide",
+      "platform": "Udemy",
+      "url": "https://www.udemy.com"
+    }
+  ],
+  "youtube": [
+    {
+      "channel": "freeCodeCamp",
+      "url": "https://www.youtube.com/@freecodecamp"
+    },
+    {
+      "channel": "CodeWithHarry",
+      "url": "https://www.youtube.com/@CodeWithHarry"
+    }
+  ],
+  "books": [
+    "Learning Dbms",
+    "Mastering Dbms",
+    "Dbms Handbook"
+  ],
+  "practice_websites": [
+    "https://leetcode.com",
+    "https://www.hackerrank.com",
+    "https://www.geeksforgeeks.org"
+  ]
+}

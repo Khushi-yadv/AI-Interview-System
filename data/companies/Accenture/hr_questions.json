@@ -1,0 +1,75 @@
+{
+  "company": "Accenture",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Company",
+      "difficulty": "Easy",
+      "question": "Why do you want to work at Accenture?",
+      "answer": "Explain your interest in Accenture's consulting services, digital transformation projects, global exposure, and continuous learning culture."
+    },
+    {
+      "id": 2,
+      "category": "Client Focus",
+      "difficulty": "Medium",
+      "question": "Tell me about a time you solved a client's problem.",
+      "answer": "Describe the client's challenge, your solution, and the positive business outcome using the STAR method."
+    },
+    {
+      "id": 3,
+      "category": "Teamwork",
+      "difficulty": "Medium",
+      "question": "Describe a situation where you worked with a diverse team.",
+      "answer": "Explain how you collaborated, communicated, and achieved the project objectives."
+    },
+    {
+      "id": 4,
+      "category": "Problem Solving",
+      "difficulty": "Hard",
+      "question": "Tell me about a complex technical problem you solved.",
+      "answer": "Explain the issue, your analysis, the implemented solution, and measurable results."
+    },
+    {
+      "id": 5,
+      "category": "Adaptability",
+      "difficulty": "Medium",
+      "question": "How do you handle changing project requirements?",
+      "answer": "Discuss flexibility, prioritization, communication, and maintaining project quality."
+    },
+    {
+      "id": 6,
+      "category": "Leadership",
+      "difficulty": "Medium",
+      "question": "Describe a time you took ownership of a task.",
+      "answer": "Explain how you accepted responsibility, solved the problem, and delivered successful results."
+    },
+    {
+      "id": 7,
+      "category": "Learning",
+      "difficulty": "Easy",
+      "question": "How do you continuously improve your technical skills?",
+      "answer": "Mention certifications, online courses, technical blogs, documentation, and practical projects."
+    },
+    {
+      "id": 8,
+      "category": "Communication",
+      "difficulty": "Easy",
+      "question": "How do you explain technical concepts to non-technical stakeholders?",
+      "answer": "Use simple language, practical examples, and focus on business value."
+    },
+    {
+      "id": 9,
+      "category": "Quality",
+      "difficulty": "Medium",
+      "question": "How do you ensure quality while working under tight deadlines?",
+      "answer": "Discuss planning, testing, code reviews, and efficient time management."
+    },
+    {
+      "id": 10,
+      "category": "Company",
+      "difficulty": "Easy",
+      "question": "Why should Accenture hire you?",
+      "answer": "Highlight your technical skills, communication abilities, adaptability, and commitment to delivering quality solutions."
+    }
+  ]
+}

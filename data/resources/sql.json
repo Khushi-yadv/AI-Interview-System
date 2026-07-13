@@ -1,0 +1,44 @@
+{
+  "skill": "Sql",
+  "roles": [
+    "Software Engineer",
+    "Backend Developer",
+    "Full Stack Developer",
+    "Python Developer",
+    "Machine Learning Engineer",
+    "Data Scientist",
+    "Data Analyst"
+  ],
+  "courses": [
+    {
+      "name": "Introduction to Sql",
+      "platform": "Coursera",
+      "url": "https://www.coursera.org"
+    },
+    {
+      "name": "Sql Complete Guide",
+      "platform": "Udemy",
+      "url": "https://www.udemy.com"
+    }
+  ],
+  "youtube": [
+    {
+      "channel": "freeCodeCamp",
+      "url": "https://www.youtube.com/@freecodecamp"
+    },
+    {
+      "channel": "CodeWithHarry",
+      "url": "https://www.youtube.com/@CodeWithHarry"
+    }
+  ],
+  "books": [
+    "Learning Sql",
+    "Mastering Sql",
+    "Sql Handbook"
+  ],
+  "practice_websites": [
+    "https://leetcode.com",
+    "https://www.hackerrank.com",
+    "https://www.geeksforgeeks.org"
+  ]
+}

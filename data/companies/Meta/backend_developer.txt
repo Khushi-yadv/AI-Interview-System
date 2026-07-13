@@ -1,0 +1,23 @@
+Job Title:Backend Developer
+
+Required Skills:
+
+Java
+C++
+Python
+Hack (PHP)
+REST APIs
+SQL
+DBMS
+Git
+Authentication (JWT/OAuth)
+Data Structures & Algorithms
+
+Preferred Skills:
+
+Distributed Systems
+GraphQL
+Redis
+Kafka
+Docker
+System Design

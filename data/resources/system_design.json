@@ -1,0 +1,40 @@
+{
+  "skill": "System Design",
+  "roles": [
+    "Software Engineer",
+    "Backend Developer",
+    "Full Stack Developer"
+  ],
+  "courses": [
+    {
+      "name": "Introduction to System Design",
+      "platform": "Coursera",
+      "url": "https://www.coursera.org"
+    },
+    {
+      "name": "System Design Complete Guide",
+      "platform": "Udemy",
+      "url": "https://www.udemy.com"
+    }
+  ],
+  "youtube": [
+    {
+      "channel": "freeCodeCamp",
+      "url": "https://www.youtube.com/@freecodecamp"
+    },
+    {
+      "channel": "CodeWithHarry",
+      "url": "https://www.youtube.com/@CodeWithHarry"
+    }
+  ],
+  "books": [
+    "Learning System Design",
+    "Mastering System Design",
+    "System Design Handbook"
+  ],
+  "practice_websites": [
+    "https://leetcode.com",
+    "https://www.hackerrank.com",
+    "https://www.geeksforgeeks.org"
+  ]
+}

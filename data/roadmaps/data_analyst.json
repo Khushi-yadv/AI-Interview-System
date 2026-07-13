@@ -1,0 +1,118 @@
+{
+  "career": "Data Analyst",
+  "description": "A Data Analyst collects, cleans, analyzes, and visualizes data to help organizations make informed business decisions using statistical analysis and business intelligence tools.",
+
+  "steps": [
+    {
+      "step": 1,
+      "title": "Programming Fundamentals",
+      "topics": [
+        "Python Basics",
+        "Variables & Data Types",
+        "Functions",
+        "Loops",
+        "File Handling"
+      ]
+    },
+    {
+      "step": 2,
+      "title": "Mathematics & Statistics",
+      "topics": [
+        "Descriptive Statistics",
+        "Probability",
+        "Mean, Median & Mode",
+        "Standard Deviation",
+        "Correlation",
+        "Hypothesis Testing"
+      ]
+    },
+    {
+      "step": 3,
+      "title": "SQL & Database Management",
+      "topics": [
+        "SQL Basics",
+        "Joins",
+        "Group By",
+        "Subqueries",
+        "Views",
+        "Indexes",
+        "MySQL",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "step": 4,
+      "title": "Data Analysis",
+      "topics": [
+        "NumPy",
+        "Pandas",
+        "Data Cleaning",
+        "Data Transformation",
+        "Exploratory Data Analysis (EDA)"
+      ]
+    },
+    {
+      "step": 5,
+      "title": "Data Visualization",
+      "topics": [
+        "Matplotlib",
+        "Seaborn",
+        "Plotly",
+        "Power BI",
+        "Tableau"
+      ]
+    },
+    {
+      "step": 6,
+      "title": "Excel",
+      "topics": [
+        "Formulas",
+        "Pivot Tables",
+        "Charts",
+        "Lookup Functions",
+        "Dashboards"
+      ]
+    },
+    {
+      "step": 7,
+      "title": "Business Intelligence",
+      "topics": [
+        "KPIs",
+        "Business Reports",
+        "Dashboards",
+        "Data Storytelling"
+      ]
+    },
+    {
+      "step": 8,
+      "title": "Version Control",
+      "topics": [
+        "Git",
+        "GitHub"
+      ]
+    },
+    {
+      "step": 9,
+      "title": "Projects",
+      "topics": [
+        "Sales Dashboard",
+        "Customer Churn Analysis",
+        "Netflix Data Analysis",
+        "COVID-19 Data Analysis",
+        "E-commerce Analytics Dashboard"
+      ]
+    },
+    {
+      "step": 10,
+      "title": "Interview Preparation",
+      "topics": [
+        "SQL Interview Questions",
+        "Excel Interview Questions",
+        "Python Interview Questions",
+        "Case Study Practice",
+        "Resume Building",
+        "Mock Interviews"
+      ]
+    }
+  ]
+}

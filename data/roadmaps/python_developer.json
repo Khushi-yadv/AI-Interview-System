@@ -1,0 +1,123 @@
+{
+  "career": "Python Developer",
+  "description": "A Python Developer builds applications, automation scripts, APIs, web applications, and data-driven solutions using Python and its frameworks.",
+
+  "steps": [
+    {
+      "step": 1,
+      "title": "Python Fundamentals",
+      "topics": [
+        "Variables & Data Types",
+        "Operators",
+        "Conditional Statements",
+        "Loops",
+        "Functions",
+        "Modules & Packages",
+        "File Handling",
+        "Exception Handling"
+      ]
+    },
+    {
+      "step": 2,
+      "title": "Object-Oriented Programming",
+      "topics": [
+        "Classes & Objects",
+        "Inheritance",
+        "Polymorphism",
+        "Encapsulation",
+        "Abstraction"
+      ]
+    },
+    {
+      "step": 3,
+      "title": "Data Structures & Algorithms",
+      "topics": [
+        "Arrays",
+        "Strings",
+        "Lists",
+        "Tuples",
+        "Dictionaries",
+        "Sets",
+        "Stacks",
+        "Queues",
+        "Trees",
+        "Graphs",
+        "Recursion",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "step": 4,
+      "title": "Database Management",
+      "topics": [
+        "SQL",
+        "MySQL",
+        "PostgreSQL",
+        "MongoDB",
+        "SQLite"
+      ]
+    },
+    {
+      "step": 5,
+      "title": "Python Frameworks",
+      "topics": [
+        "Flask",
+        "Django",
+        "FastAPI",
+        "REST APIs"
+      ]
+    },
+    {
+      "step": 6,
+      "title": "Version Control",
+      "topics": [
+        "Git",
+        "GitHub",
+        "Branching",
+        "Pull Requests"
+      ]
+    },
+    {
+      "step": 7,
+      "title": "Testing & Debugging",
+      "topics": [
+        "Unit Testing",
+        "PyTest",
+        "Logging",
+        "Debugging Techniques"
+      ]
+    },
+    {
+      "step": 8,
+      "title": "Cloud & DevOps",
+      "topics": [
+        "Docker",
+        "AWS Basics",
+        "Linux Basics",
+        "CI/CD"
+      ]
+    },
+    {
+      "step": 9,
+      "title": "Projects",
+      "topics": [
+        "To-Do App",
+        "Weather App",
+        "Blog Application",
+        "REST API",
+        "AI Interview Preparation System"
+      ]
+    },
+    {
+      "step": 10,
+      "title": "Interview Preparation",
+      "topics": [
+        "Python Interview Questions",
+        "Coding Practice",
+        "Resume Building",
+        "HR Interview",
+        "Mock Interviews"
+      ]
+    }
+  ]
+}

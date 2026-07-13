@@ -1,0 +1,23 @@
+Job Title:Software Engineer
+
+Required Skills:
+
+Java
+Python
+C++
+Data Structures & Algorithms
+Object-Oriented Programming
+DBMS
+SQL
+Operating Systems
+Git
+Problem Solving
+
+Preferred Skills:
+
+Spring Boot
+Docker
+Kubernetes
+AWS / Azure
+CI/CD
+Agile Methodology

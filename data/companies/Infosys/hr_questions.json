@@ -1,0 +1,75 @@
+{
+  "company": "Infosys",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Company",
+      "difficulty": "Easy",
+      "question": "Why do you want to work at Infosys?",
+      "answer": "Explain your interest in Infosys' global presence, digital transformation services, learning culture, and career opportunities."
+    },
+    {
+      "id": 2,
+      "category": "Learning",
+      "difficulty": "Easy",
+      "question": "How do you keep yourself updated with new technologies?",
+      "answer": "Mention online courses, certifications, technical blogs, documentation, and hands-on projects."
+    },
+    {
+      "id": 3,
+      "category": "Teamwork",
+      "difficulty": "Medium",
+      "question": "Describe a time you worked successfully in a team.",
+      "answer": "Use the STAR method to explain your role, communication, and the final outcome."
+    },
+    {
+      "id": 4,
+      "category": "Problem Solving",
+      "difficulty": "Hard",
+      "question": "Tell me about a difficult technical problem you solved.",
+      "answer": "Explain the problem, your approach, implementation, and measurable results."
+    },
+    {
+      "id": 5,
+      "category": "Client Focus",
+      "difficulty": "Medium",
+      "question": "How would you handle changing client requirements?",
+      "answer": "Discuss communication, prioritization, flexibility, and maintaining quality."
+    },
+    {
+      "id": 6,
+      "category": "Leadership",
+      "difficulty": "Medium",
+      "question": "Tell me about a time you took responsibility beyond your assigned task.",
+      "answer": "Describe how you identified an opportunity, took ownership, and delivered value."
+    },
+    {
+      "id": 7,
+      "category": "Adaptability",
+      "difficulty": "Medium",
+      "question": "Describe a situation where you quickly adapted to a new technology.",
+      "answer": "Explain your learning approach and successful implementation."
+    },
+    {
+      "id": 8,
+      "category": "Communication",
+      "difficulty": "Easy",
+      "question": "How do you explain technical concepts to non-technical clients?",
+      "answer": "Use simple language, examples, and focus on business benefits."
+    },
+    {
+      "id": 9,
+      "category": "Quality",
+      "difficulty": "Medium",
+      "question": "How do you ensure high-quality work under tight deadlines?",
+      "answer": "Discuss planning, testing, reviews, and time management."
+    },
+    {
+      "id": 10,
+      "category": "Company",
+      "difficulty": "Easy",
+      "question": "Why should Infosys hire you?",
+      "answer": "Highlight your technical skills, communication, adaptability, and willingness to learn."
+    }
+  ]
+}

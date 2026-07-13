@@ -1,0 +1,117 @@
+[
+  {
+    "id": "STK001",
+    "title": "Valid Parentheses",
+    "difficulty": "Easy",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Stack"
+    ],
+    "leetcode": "https://leetcode.com/problems/valid-parentheses/"
+  },
+  {
+    "id": "STK002",
+    "title": "Min Stack",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Stack"
+    ],
+    "leetcode": "https://leetcode.com/problems/min-stack/"
+  },
+  {
+    "id": "STK003",
+    "title": "Evaluate Reverse Polish Notation",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Stack"
+    ],
+    "leetcode": "https://leetcode.com/problems/evaluate-reverse-polish-notation/"
+  },
+  {
+    "id": "STK004",
+    "title": "Daily Temperatures",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Stack"
+    ],
+    "leetcode": "https://leetcode.com/problems/daily-temperatures/"
+  },
+  {
+    "id": "STK005",
+    "title": "Largest Rectangle in Histogram",
+    "difficulty": "Hard",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Stack"
+    ],
+    "leetcode": "https://leetcode.com/problems/largest-rectangle-in-histogram/"
+  }
+]

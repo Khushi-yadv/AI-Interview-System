@@ -1,0 +1,23 @@
+Job Title:Full Stack Developer
+
+Required Skills:
+
+React.js
+Java
+Spring Boot
+Node.js
+Python
+REST APIs
+Oracle Database
+SQL
+Git
+Authentication (JWT/OAuth)
+
+Preferred Skills:
+
+Docker
+Kubernetes
+Oracle Cloud Infrastructure (OCI)
+CI/CD
+Microservices
+System Design

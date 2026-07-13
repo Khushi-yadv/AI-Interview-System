@@ -1,0 +1,117 @@
+[
+  {
+    "id": "PS001",
+    "title": "Range Sum Query - Immutable",
+    "difficulty": "Easy",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Prefix Sum"
+    ],
+    "leetcode": "https://leetcode.com/problems/range-sum-query-immutable/"
+  },
+  {
+    "id": "PS002",
+    "title": "Running Sum of 1d Array",
+    "difficulty": "Easy",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Prefix Sum"
+    ],
+    "leetcode": "https://leetcode.com/problems/running-sum-of-1d-array/"
+  },
+  {
+    "id": "PS003",
+    "title": "Subarray Sum Equals K",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Prefix Sum"
+    ],
+    "leetcode": "https://leetcode.com/problems/subarray-sum-equals-k/"
+  },
+  {
+    "id": "PS004",
+    "title": "Continuous Subarray Sum",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Prefix Sum"
+    ],
+    "leetcode": "https://leetcode.com/problems/continuous-subarray-sum/"
+  },
+  {
+    "id": "PS005",
+    "title": "Maximum Size Subarray Sum Equals k",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Prefix Sum"
+    ],
+    "leetcode": "https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/"
+  }
+]

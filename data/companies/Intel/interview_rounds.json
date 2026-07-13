@@ -1,0 +1,25 @@
+{
+  "company": "Intel",
+  "rounds": [
+    {
+      "round": 1,
+      "name": "Online Assessment",
+      "focus": ["Coding", "MCQs"]
+    },
+    {
+      "round": 2,
+      "name": "Technical Interview",
+      "focus": ["C/C++", "OS", "DSA"]
+    },
+    {
+      "round": 3,
+      "name": "Managerial Interview",
+      "focus": ["Projects", "Problem Solving"]
+    },
+    {
+      "round": 4,
+      "name": "HR Interview",
+      "focus": ["Behavioral", "Communication"]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+[
+  {
+    "id": "TP001",
+    "title": "Two Sum II - Input Array Is Sorted",
+    "difficulty": "Easy",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Two Pointers"
+    ],
+    "leetcode": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/"
+  },
+  {
+    "id": "TP002",
+    "title": "Valid Palindrome",
+    "difficulty": "Easy",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Two Pointers"
+    ],
+    "leetcode": "https://leetcode.com/problems/valid-palindrome/"
+  },
+  {
+    "id": "TP003",
+    "title": "3Sum",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Two Pointers"
+    ],
+    "leetcode": "https://leetcode.com/problems/3sum/"
+  },
+  {
+    "id": "TP004",
+    "title": "Container With Most Water",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Two Pointers"
+    ],
+    "leetcode": "https://leetcode.com/problems/container-with-most-water/"
+  },
+  {
+    "id": "TP005",
+    "title": "Trapping Rain Water",
+    "difficulty": "Hard",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Two Pointers"
+    ],
+    "leetcode": "https://leetcode.com/problems/trapping-rain-water/"
+  }
+]

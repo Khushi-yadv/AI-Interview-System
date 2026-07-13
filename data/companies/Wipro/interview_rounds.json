@@ -1,0 +1,20 @@
+{
+  "company": "Wipro",
+  "rounds": [
+    {
+      "round": 1,
+      "name": "Online Assessment",
+      "focus": ["Coding", "Aptitude", "English"]
+    },
+    {
+      "round": 2,
+      "name": "Technical Interview",
+      "focus": ["Programming", "Projects", "OOP"]
+    },
+    {
+      "round": 3,
+      "name": "HR Interview",
+      "focus": ["Behavioral", "Communication"]
+    }
+  ]
+}

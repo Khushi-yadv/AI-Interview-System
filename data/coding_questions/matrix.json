@@ -1,0 +1,118 @@
+[
+  {
+    "id": "MAT001",
+    "title": "Set Matrix Zeroes",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Matrix"
+    ],
+    "leetcode": "https://leetcode.com/problems/set-matrix-zeroes/"
+  },
+  {
+    "id": "MAT002",
+    "title": "Spiral Matrix",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Matrix"
+    ],
+    "leetcode": "https://leetcode.com/problems/spiral-matrix/"
+  },
+  {
+    "id": "MAT003",
+    "title": "Rotate Image",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Matrix"
+    ],
+    "leetcode": "https://leetcode.com/problems/rotate-image/"
+  },
+  {
+    "id": "MAT004",
+    "title": "Word Search",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Matrix",
+      "Backtracking"
+    ],
+    "leetcode": "https://leetcode.com/problems/word-search/"
+  },
+  {
+    "id": "MAT005",
+    "title": "Game of Life",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Matrix"
+    ],
+    "leetcode": "https://leetcode.com/problems/game-of-life/"
+  }
+]

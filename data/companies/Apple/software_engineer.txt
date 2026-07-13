@@ -1,0 +1,23 @@
+Job Title:Software Engineer
+
+Required Skills:
+
+Swift
+C++
+Objective-C
+Data Structures & Algorithms
+Object-Oriented Programming
+Operating Systems
+DBMS
+Git
+Problem Solving
+System Programming
+
+Preferred Skills:
+
+SwiftUI
+UIKit
+Xcode
+Multithreading
+System Design
+CI/CD

@@ -1,0 +1,45 @@
+{
+  "company": "Apple",
+  "parent_company": "Apple Inc.",
+  "founded": 1976,
+  "founders": [
+    "Steve Jobs",
+    "Steve Wozniak",
+    "Ronald Wayne"
+  ],
+  "ceo": "Tim Cook",
+  "headquarters": "Cupertino, California, USA",
+  "industry": "Consumer Electronics",
+  "employees": "160000+",
+  "website": "https://www.apple.com",
+  "careers": "https://jobs.apple.com",
+  "internships": true,
+  "work_model": [
+    "On-site",
+    "Hybrid"
+  ],
+  "products": [
+    "iPhone",
+    "Mac",
+    "iPad",
+    "Apple Watch",
+    "Vision Pro"
+  ],
+  "tech_stack": [
+    "Swift",
+    "Objective-C",
+    "C++",
+    "Python"
+  ],
+  "interview_process": [
+    "Technical Interviews",
+    "System Design",
+    "Behavioral"
+  ],
+  "salary": {
+    "intern": "$40-$55/hour",
+    "sde1": "$170k-$220k",
+    "sde2": "$250k-$340k"
+  },
+  "description": "Apple designs consumer electronics, software, cloud services, and innovative hardware products."
+}

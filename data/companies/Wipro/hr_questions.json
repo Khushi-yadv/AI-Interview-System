@@ -1,0 +1,75 @@
+{
+  "company": "Wipro",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Company",
+      "difficulty": "Easy",
+      "question": "Why do you want to work at Wipro?",
+      "answer": "Explain your interest in Wipro's global IT services, digital transformation projects, learning opportunities, and career growth."
+    },
+    {
+      "id": 2,
+      "category": "Learning",
+      "difficulty": "Easy",
+      "question": "How do you keep yourself updated with new technologies?",
+      "answer": "Mention online courses, certifications, technical blogs, official documentation, and hands-on projects."
+    },
+    {
+      "id": 3,
+      "category": "Teamwork",
+      "difficulty": "Medium",
+      "question": "Tell me about a successful team project you worked on.",
+      "answer": "Use the STAR method to describe your role, collaboration, and the successful outcome."
+    },
+    {
+      "id": 4,
+      "category": "Problem Solving",
+      "difficulty": "Hard",
+      "question": "Describe a challenging technical problem you solved.",
+      "answer": "Explain the problem, your analysis, implementation, and the measurable impact of your solution."
+    },
+    {
+      "id": 5,
+      "category": "Client Focus",
+      "difficulty": "Medium",
+      "question": "How would you handle a client who is unhappy with your solution?",
+      "answer": "Listen carefully, understand the concerns, communicate professionally, and work towards an effective solution."
+    },
+    {
+      "id": 6,
+      "category": "Leadership",
+      "difficulty": "Medium",
+      "question": "Tell me about a time you took ownership of a task.",
+      "answer": "Describe how you accepted responsibility, completed the task successfully, and delivered value to the team."
+    },
+    {
+      "id": 7,
+      "category": "Adaptability",
+      "difficulty": "Medium",
+      "question": "Describe a situation where project requirements changed unexpectedly.",
+      "answer": "Explain how you adapted quickly, reprioritized your work, and successfully completed the project."
+    },
+    {
+      "id": 8,
+      "category": "Communication",
+      "difficulty": "Easy",
+      "question": "How do you explain technical concepts to non-technical stakeholders?",
+      "answer": "Use simple language, real-world examples, and focus on business outcomes."
+    },
+    {
+      "id": 9,
+      "category": "Quality",
+      "difficulty": "Medium",
+      "question": "How do you ensure quality while working under tight deadlines?",
+      "answer": "Discuss planning, testing, code reviews, documentation, and effective time management."
+    },
+    {
+      "id": 10,
+      "category": "Company",
+      "difficulty": "Easy",
+      "question": "Why should Wipro hire you?",
+      "answer": "Highlight your technical skills, problem-solving ability, teamwork, adaptability, and eagerness to learn."
+    }
+  ]
+}

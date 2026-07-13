@@ -1,0 +1,20 @@
+{
+  "company": "IBM",
+  "rounds": [
+    {
+      "round": 1,
+      "name": "Online Assessment",
+      "focus": ["Coding", "Aptitude"]
+    },
+    {
+      "round": 2,
+      "name": "Technical Interview",
+      "focus": ["Programming", "Database", "Networking"]
+    },
+    {
+      "round": 3,
+      "name": "HR Interview",
+      "focus": ["Communication", "Behavioral"]
+    }
+  ]
+}

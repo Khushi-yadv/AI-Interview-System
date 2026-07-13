@@ -1,0 +1,23 @@
+Job Title:Data Scientist
+
+Required Skills:
+
+Python
+Machine Learning
+Statistics
+Pandas
+NumPy
+Scikit-learn
+SQL
+Oracle SQL
+Data Visualization
+Git
+
+Preferred Skills:
+
+Deep Learning
+TensorFlow
+PyTorch
+Oracle Cloud Infrastructure (OCI)
+NLP
+Docker

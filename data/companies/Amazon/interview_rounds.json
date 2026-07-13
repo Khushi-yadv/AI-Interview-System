@@ -1,0 +1,46 @@
+{
+  "company": "Amazon",
+  "rounds": [
+    {
+      "round": 1,
+      "name": "Online Assessment",
+      "focus": [
+        "Coding",
+        "Debugging",
+        "Work Style Assessment"
+      ]
+    },
+    {
+      "round": 2,
+      "name": "Technical Interview",
+      "focus": [
+        "DSA",
+        "Coding"
+      ]
+    },
+    {
+      "round": 3,
+      "name": "Technical + System Design",
+      "focus": [
+        "System Design",
+        "Backend"
+      ]
+    },
+    {
+      "round": 4,
+      "name": "Behavioral Interview",
+      "focus": [
+        "Leadership Principles",
+        "Ownership",
+        "Customer Obsession"
+      ]
+    },
+    {
+      "round": 5,
+      "name": "Bar Raiser",
+      "focus": [
+        "Overall Evaluation"
+      ]
+    }
+  ]
+}

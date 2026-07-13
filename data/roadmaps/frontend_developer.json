@@ -1,0 +1,110 @@
+{
+  "career": "Frontend Developer",
+  "description": "A Frontend Developer designs and builds the user interface of websites and web applications, ensuring they are responsive, interactive, and user-friendly.",
+
+  "steps": [
+    {
+      "step": 1,
+      "title": "Programming Fundamentals",
+      "topics": [
+        "HTML5",
+        "CSS3",
+        "JavaScript (ES6+)"
+      ]
+    },
+    {
+      "step": 2,
+      "title": "Core Web Development",
+      "topics": [
+        "Semantic HTML",
+        "Flexbox",
+        "CSS Grid",
+        "Responsive Design",
+        "Media Queries"
+      ]
+    },
+    {
+      "step": 3,
+      "title": "JavaScript Concepts",
+      "topics": [
+        "DOM Manipulation",
+        "Events",
+        "Functions",
+        "Promises",
+        "Async/Await",
+        "Fetch API"
+      ]
+    },
+    {
+      "step": 4,
+      "title": "Frontend Framework",
+      "topics": [
+        "React",
+        "React Router",
+        "Hooks",
+        "State Management",
+        "Context API"
+      ]
+    },
+    {
+      "step": 5,
+      "title": "Version Control",
+      "topics": [
+        "Git",
+        "GitHub",
+        "Branching",
+        "Pull Requests"
+      ]
+    },
+    {
+      "step": 6,
+      "title": "API Integration",
+      "topics": [
+        "REST APIs",
+        "JSON",
+        "Axios",
+        "Fetch API"
+      ]
+    },
+    {
+      "step": 7,
+      "title": "UI Libraries & Styling",
+      "topics": [
+        "Bootstrap",
+        "Tailwind CSS",
+        "Material UI"
+      ]
+    },
+    {
+      "step": 8,
+      "title": "Testing & Optimization",
+      "topics": [
+        "Debugging",
+        "Browser Developer Tools",
+        "Performance Optimization",
+        "Accessibility"
+      ]
+    },
+    {
+      "step": 9,
+      "title": "Deployment",
+      "topics": [
+        "Vercel",
+        "Netlify",
+        "GitHub Pages"
+      ]
+    },
+    {
+      "step": 10,
+      "title": "Projects & Interview Preparation",
+      "topics": [
+        "Portfolio Website",
+        "Weather App",
+        "E-commerce UI",
+        "Dashboard",
+        "Resume Preparation",
+        "Mock Interviews"
+      ]
+    }
+  ]
+}

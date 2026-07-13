@@ -1,0 +1,241 @@
+[
+  {
+    "id": "ARR001",
+    "title": "Two Sum",
+    "difficulty": "Easy",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Array",
+      "Hash Map"
+    ],
+    "leetcode": "https://leetcode.com/problems/two-sum/"
+  },
+  {
+    "id": "ARR002",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "Easy",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Array",
+      "Greedy"
+    ],
+    "leetcode": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
+  },
+  {
+    "id": "ARR003",
+    "title": "Contains Duplicate",
+    "difficulty": "Easy",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Array",
+      "Hash Set"
+    ],
+    "leetcode": "https://leetcode.com/problems/contains-duplicate/"
+  },
+  {
+    "id": "ARR004",
+    "title": "Product of Array Except Self",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Array",
+      "Prefix Sum"
+    ],
+    "leetcode": "https://leetcode.com/problems/product-of-array-except-self/"
+  },
+  {
+    "id": "ARR005",
+    "title": "Maximum Subarray",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Array",
+      "Kadane"
+    ],
+    "leetcode": "https://leetcode.com/problems/maximum-subarray/"
+  },
+  {
+    "id": "ARR006",
+    "title": "Merge Intervals",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Array",
+      "Sorting"
+    ],
+    "leetcode": "https://leetcode.com/problems/merge-intervals/"
+  },
+  {
+    "id": "ARR007",
+    "title": "Rotate Array",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Array"
+    ],
+    "leetcode": "https://leetcode.com/problems/rotate-array/"
+  },
+  {
+    "id": "ARR008",
+    "title": "3Sum",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ],
+    "leetcode": "https://leetcode.com/problems/3sum/"
+  },
+  {
+    "id": "ARR009",
+    "title": "Container With Most Water",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ],
+    "leetcode": "https://leetcode.com/problems/container-with-most-water/"
+  },
+  {
+    "id": "ARR010",
+    "title": "Trapping Rain Water",
+    "difficulty": "Hard",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ],
+    "leetcode": "https://leetcode.com/problems/trapping-rain-water/"
+  }
+]

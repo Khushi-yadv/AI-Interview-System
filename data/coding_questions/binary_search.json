@@ -1,0 +1,117 @@
+[
+  {
+    "id": "BS001",
+    "title": "Binary Search",
+    "difficulty": "Easy",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Binary Search"
+    ],
+    "leetcode": "https://leetcode.com/problems/binary-search/"
+  },
+  {
+    "id": "BS002",
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Binary Search"
+    ],
+    "leetcode": "https://leetcode.com/problems/search-in-rotated-sorted-array/"
+  },
+  {
+    "id": "BS003",
+    "title": "Find Minimum in Rotated Sorted Array",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Binary Search"
+    ],
+    "leetcode": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/"
+  },
+  {
+    "id": "BS004",
+    "title": "Median of Two Sorted Arrays",
+    "difficulty": "Hard",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Binary Search"
+    ],
+    "leetcode": "https://leetcode.com/problems/median-of-two-sorted-arrays/"
+  },
+  {
+    "id": "BS005",
+    "title": "Split Array Largest Sum",
+    "difficulty": "Hard",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Binary Search"
+    ],
+    "leetcode": "https://leetcode.com/problems/split-array-largest-sum/"
+  }
+]

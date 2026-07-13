@@ -1,0 +1,117 @@
+[
+  {
+    "id": "TRIE001",
+    "title": "Implement Trie",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Trie"
+    ],
+    "leetcode": "https://leetcode.com/problems/implement-trie-prefix-tree/"
+  },
+  {
+    "id": "TRIE002",
+    "title": "Design Add and Search Words",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Trie"
+    ],
+    "leetcode": "https://leetcode.com/problems/design-add-and-search-words-data-structure/"
+  },
+  {
+    "id": "TRIE003",
+    "title": "Word Search II",
+    "difficulty": "Hard",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Trie"
+    ],
+    "leetcode": "https://leetcode.com/problems/word-search-ii/"
+  },
+  {
+    "id": "TRIE004",
+    "title": "Replace Words",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Trie"
+    ],
+    "leetcode": "https://leetcode.com/problems/replace-words/"
+  },
+  {
+    "id": "TRIE005",
+    "title": "Map Sum Pairs",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Trie"
+    ],
+    "leetcode": "https://leetcode.com/problems/map-sum-pairs/"
+  }
+]

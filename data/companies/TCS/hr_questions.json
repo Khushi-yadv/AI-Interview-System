@@ -1,0 +1,75 @@
+{
+  "company": "TCS",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Company",
+      "difficulty": "Easy",
+      "question": "Why do you want to work at TCS?",
+      "answer": "Explain your interest in TCS's global presence, diverse projects, learning opportunities, and long-term career growth."
+    },
+    {
+      "id": 2,
+      "category": "Learning",
+      "difficulty": "Easy",
+      "question": "How do you keep yourself updated with the latest technologies?",
+      "answer": "Mention online courses, certifications, technical blogs, documentation, and personal projects."
+    },
+    {
+      "id": 3,
+      "category": "Teamwork",
+      "difficulty": "Medium",
+      "question": "Tell me about a time you worked successfully in a team.",
+      "answer": "Use the STAR method to explain your role, collaboration, and the project's success."
+    },
+    {
+      "id": 4,
+      "category": "Problem Solving",
+      "difficulty": "Hard",
+      "question": "Describe a difficult technical problem you solved.",
+      "answer": "Explain the issue, your approach, implementation, and measurable outcome."
+    },
+    {
+      "id": 5,
+      "category": "Client Focus",
+      "difficulty": "Medium",
+      "question": "How would you handle a difficult client?",
+      "answer": "Stay calm, understand the client's concerns, communicate clearly, and provide practical solutions."
+    },
+    {
+      "id": 6,
+      "category": "Leadership",
+      "difficulty": "Medium",
+      "question": "Tell me about a time you took ownership of a task.",
+      "answer": "Describe how you accepted responsibility, completed the work successfully, and delivered value."
+    },
+    {
+      "id": 7,
+      "category": "Adaptability",
+      "difficulty": "Medium",
+      "question": "Describe a situation where you adapted to changing project requirements.",
+      "answer": "Explain how you reprioritized work and successfully delivered the project."
+    },
+    {
+      "id": 8,
+      "category": "Communication",
+      "difficulty": "Easy",
+      "question": "How do you explain technical concepts to non-technical stakeholders?",
+      "answer": "Use simple language, real-life examples, and focus on business value."
+    },
+    {
+      "id": 9,
+      "category": "Quality",
+      "difficulty": "Medium",
+      "question": "How do you ensure quality while meeting deadlines?",
+      "answer": "Discuss planning, testing, code reviews, and effective time management."
+    },
+    {
+      "id": 10,
+      "category": "Company",
+      "difficulty": "Easy",
+      "question": "Why should TCS hire you?",
+      "answer": "Highlight your technical knowledge, communication skills, adaptability, and willingness to learn."
+    }
+  ]
+}

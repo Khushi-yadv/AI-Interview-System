@@ -1,0 +1,122 @@
+{
+  "career": "Backend Developer",
+  "description": "A Backend Developer builds server-side applications, APIs, databases, and business logic that power web and mobile applications.",
+
+  "steps": [
+    {
+      "step": 1,
+      "title": "Programming Language",
+      "topics": [
+        "Python",
+        "Java",
+        "JavaScript (Node.js)",
+        "C#",
+        "Go"
+      ]
+    },
+    {
+      "step": 2,
+      "title": "Programming Fundamentals",
+      "topics": [
+        "Variables",
+        "Loops",
+        "Functions",
+        "Object-Oriented Programming",
+        "Exception Handling"
+      ]
+    },
+    {
+      "step": 3,
+      "title": "Data Structures & Algorithms",
+      "topics": [
+        "Arrays",
+        "Strings",
+        "Linked Lists",
+        "Stacks",
+        "Queues",
+        "Trees",
+        "Graphs",
+        "Hashing",
+        "Recursion"
+      ]
+    },
+    {
+      "step": 4,
+      "title": "Databases",
+      "topics": [
+        "SQL",
+        "MySQL",
+        "PostgreSQL",
+        "MongoDB",
+        "Database Design",
+        "Indexing"
+      ]
+    },
+    {
+      "step": 5,
+      "title": "Backend Frameworks",
+      "topics": [
+        "Flask",
+        "Django",
+        "FastAPI",
+        "Express.js",
+        "Spring Boot"
+      ]
+    },
+    {
+      "step": 6,
+      "title": "REST APIs",
+      "topics": [
+        "HTTP Methods",
+        "REST API Development",
+        "JSON",
+        "API Testing",
+        "Postman"
+      ]
+    },
+    {
+      "step": 7,
+      "title": "Authentication & Security",
+      "topics": [
+        "JWT",
+        "OAuth",
+        "Password Hashing",
+        "Authentication",
+        "Authorization"
+      ]
+    },
+    {
+      "step": 8,
+      "title": "Version Control",
+      "topics": [
+        "Git",
+        "GitHub",
+        "Branching",
+        "Pull Requests"
+      ]
+    },
+    {
+      "step": 9,
+      "title": "Deployment & DevOps",
+      "topics": [
+        "Docker",
+        "AWS Basics",
+        "Linux",
+        "CI/CD",
+        "Nginx"
+      ]
+    },
+    {
+      "step": 10,
+      "title": "Projects & Interview Preparation",
+      "topics": [
+        "Authentication System",
+        "REST API Project",
+        "E-commerce Backend",
+        "Blog API",
+        "Mock Interviews",
+        "Resume Preparation"
+      ]
+    }
+  ]
+}

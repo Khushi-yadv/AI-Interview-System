@@ -1,0 +1,117 @@
+[
+  {
+    "id": "BIT001",
+    "title": "Single Number",
+    "difficulty": "Easy",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Bit Manipulation"
+    ],
+    "leetcode": "https://leetcode.com/problems/single-number/"
+  },
+  {
+    "id": "BIT002",
+    "title": "Number of 1 Bits",
+    "difficulty": "Easy",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Bit Manipulation"
+    ],
+    "leetcode": "https://leetcode.com/problems/number-of-1-bits/"
+  },
+  {
+    "id": "BIT003",
+    "title": "Counting Bits",
+    "difficulty": "Easy",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Bit Manipulation"
+    ],
+    "leetcode": "https://leetcode.com/problems/counting-bits/"
+  },
+  {
+    "id": "BIT004",
+    "title": "Reverse Bits",
+    "difficulty": "Easy",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Bit Manipulation"
+    ],
+    "leetcode": "https://leetcode.com/problems/reverse-bits/"
+  },
+  {
+    "id": "BIT005",
+    "title": "Bitwise AND of Numbers Range",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Bit Manipulation"
+    ],
+    "leetcode": "https://leetcode.com/problems/bitwise-and-of-numbers-range/"
+  }
+]

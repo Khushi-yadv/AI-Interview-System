@@ -1,0 +1,43 @@
+{
+  "company": "Accenture",
+  "parent_company": "Accenture plc",
+  "founded": 1989,
+  "founders": [
+    "Arthur E. Andersen"
+  ],
+  "ceo": "Julie Sweet",
+  "headquarters": "Dublin, Ireland",
+  "industry": "Information Technology Services & Consulting",
+  "employees": "790000+",
+  "website": "https://www.accenture.com",
+  "careers": "https://www.accenture.com/in-en/careers",
+  "internships": true,
+  "work_model": [
+    "Hybrid"
+  ],
+  "products": [
+    "Accenture myNav",
+    "SynOps",
+    "Cloud First",
+    "Applied Intelligence"
+  ],
+  "tech_stack": [
+    "Java",
+    "Python",
+    "SQL",
+    "React",
+    "Azure",
+    "AWS"
+  ],
+  "interview_process": [
+    "Online Assessment",
+    "Technical Interview",
+    "HR Interview"
+  ],
+  "salary": {
+    "intern": "$18-$30/hour",
+    "sde1": "$80k-$120k",
+    "sde2": "$120k-$170k"
+  },
+  "description": "Accenture is a global professional services company providing consulting, technology, operations, and digital transformation solutions."
+}

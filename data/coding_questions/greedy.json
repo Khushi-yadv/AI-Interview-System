@@ -1,0 +1,117 @@
+[
+  {
+    "id": "GR001",
+    "title": "Assign Cookies",
+    "difficulty": "Easy",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Greedy"
+    ],
+    "leetcode": "https://leetcode.com/problems/assign-cookies/"
+  },
+  {
+    "id": "GR002",
+    "title": "Jump Game",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Greedy"
+    ],
+    "leetcode": "https://leetcode.com/problems/jump-game/"
+  },
+  {
+    "id": "GR003",
+    "title": "Gas Station",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Greedy"
+    ],
+    "leetcode": "https://leetcode.com/problems/gas-station/"
+  },
+  {
+    "id": "GR004",
+    "title": "Partition Labels",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Greedy"
+    ],
+    "leetcode": "https://leetcode.com/problems/partition-labels/"
+  },
+  {
+    "id": "GR005",
+    "title": "Task Scheduler",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Greedy"
+    ],
+    "leetcode": "https://leetcode.com/problems/task-scheduler/"
+  }
+]

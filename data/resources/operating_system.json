@@ -1,0 +1,40 @@
+{
+  "skill": "Operating System",
+  "roles": [
+    "Software Engineer",
+    "Backend Developer",
+    "Python Developer"
+  ],
+  "courses": [
+    {
+      "name": "Introduction to Operating System",
+      "platform": "Coursera",
+      "url": "https://www.coursera.org"
+    },
+    {
+      "name": "Operating System Complete Guide",
+      "platform": "Udemy",
+      "url": "https://www.udemy.com"
+    }
+  ],
+  "youtube": [
+    {
+      "channel": "freeCodeCamp",
+      "url": "https://www.youtube.com/@freecodecamp"
+    },
+    {
+      "channel": "CodeWithHarry",
+      "url": "https://www.youtube.com/@CodeWithHarry"
+    }
+  ],
+  "books": [
+    "Learning Operating System",
+    "Mastering Operating System",
+    "Operating System Handbook"
+  ],
+  "practice_websites": [
+    "https://leetcode.com",
+    "https://www.hackerrank.com",
+    "https://www.geeksforgeeks.org"
+  ]
+}

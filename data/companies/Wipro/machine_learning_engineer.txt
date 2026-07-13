@@ -1,0 +1,23 @@
+Job Title:Machine Learning Engineer
+
+Required Skills:
+
+Python
+Machine Learning
+Deep Learning
+TensorFlow
+PyTorch
+NumPy
+Pandas
+Scikit-learn
+SQL
+Git
+
+Preferred Skills:
+
+NLP
+Computer Vision
+Docker
+AWS / Azure
+MLflow
+MLOps

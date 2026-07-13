@@ -1,0 +1,44 @@
+{
+  "company": "Intel",
+  "parent_company": "Intel Corporation",
+  "founded": 1968,
+  "founders": [
+    "Gordon Moore",
+    "Robert Noyce"
+  ],
+  "ceo": "Lip-Bu Tan",
+  "headquarters": "Santa Clara, California, USA",
+  "industry": "Semiconductors",
+  "employees": "108000+",
+  "website": "https://www.intel.com",
+  "careers": "https://jobs.intel.com",
+  "internships": true,
+  "work_model": [
+    "Hybrid"
+  ],
+  "products": [
+    "Intel Core",
+    "Xeon",
+    "Arc Graphics",
+    "Gaudi AI"
+  ],
+  "tech_stack": [
+    "C++",
+    "Python",
+    "Java",
+    "Verilog",
+    "Linux"
+  ],
+  "interview_process": [
+    "Online Assessment",
+    "Technical Interviews",
+    "Managerial",
+    "HR"
+  ],
+  "salary": {
+    "intern": "$25-$40/hour",
+    "sde1": "$120k-$160k",
+    "sde2": "$170k-$240k"
+  },
+  "description": "Intel designs and manufactures processors, AI accelerators, networking products, and semiconductor technologies."
+}

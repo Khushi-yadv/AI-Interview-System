@@ -1,0 +1,20 @@
+{
+  "company": "Infosys",
+  "rounds": [
+    {
+      "round": 1,
+      "name": "Online Assessment",
+      "focus": ["Coding", "Reasoning", "Aptitude"]
+    },
+    {
+      "round": 2,
+      "name": "Technical Interview",
+      "focus": ["Programming", "Projects", "DBMS"]
+    },
+    {
+      "round": 3,
+      "name": "HR Interview",
+      "focus": ["Behavioral", "Communication"]
+    }
+  ]
+}

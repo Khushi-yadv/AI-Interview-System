@@ -1,0 +1,23 @@
+Job Title:Frontend Developer
+
+Required Skills:
+
+HTML5
+CSS3
+JavaScript
+TypeScript
+React.js
+Angular
+Responsive Design
+REST API Integration
+Git
+Browser Debugging
+
+Preferred Skills:
+
+Next.js
+Redux
+Webpack
+WebSockets
+Performance Optimization
+Angular Material

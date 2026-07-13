@@ -1,0 +1,37 @@
+Job Title:Full Stack Developer
+
+Required Skills:
+
+JavaScript / TypeScript
+
+React
+
+Node.js
+
+REST APIs
+
+SQL
+
+NoSQL
+
+Git
+
+Authentication (JWT/OAuth)
+
+Data Structures
+
+System Design Basics
+
+Preferred Skills:
+
+Next.js
+
+Docker
+
+Kubernetes
+
+AWS / GCP
+
+CI/CD
+
+Microservices

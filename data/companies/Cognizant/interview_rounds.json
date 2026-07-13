@@ -1,0 +1,20 @@
+{
+  "company": "Cognizant",
+  "rounds": [
+    {
+      "round": 1,
+      "name": "Online Assessment",
+      "focus": ["Aptitude", "Coding", "English"]
+    },
+    {
+      "round": 2,
+      "name": "Technical Interview",
+      "focus": ["Programming", "DBMS", "Projects"]
+    },
+    {
+      "round": 3,
+      "name": "HR Interview",
+      "focus": ["Communication", "Behavioral"]
+    }
+  ]
+}

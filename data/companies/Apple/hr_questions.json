@@ -1,0 +1,75 @@
+{
+  "company": "Apple",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Company",
+      "difficulty": "Easy",
+      "question": "Why do you want to work at Apple?",
+      "answer": "Discuss Apple's innovation, focus on user experience, premium products, and engineering excellence."
+    },
+    {
+      "id": 2,
+      "category": "Innovation",
+      "difficulty": "Medium",
+      "question": "Tell me about a product or feature you designed or improved.",
+      "answer": "Explain the problem, your solution, implementation, and impact using the STAR method."
+    },
+    {
+      "id": 3,
+      "category": "Customer Focus",
+      "difficulty": "Medium",
+      "question": "How do you ensure a great user experience in your projects?",
+      "answer": "Discuss usability, testing, user feedback, and continuous improvements."
+    },
+    {
+      "id": 4,
+      "category": "Problem Solving",
+      "difficulty": "Hard",
+      "question": "Describe the most challenging technical problem you've solved.",
+      "answer": "Explain the challenge, your analysis, implementation, and measurable outcome."
+    },
+    {
+      "id": 5,
+      "category": "Quality",
+      "difficulty": "Medium",
+      "question": "How do you maintain high quality in your work?",
+      "answer": "Mention testing, code reviews, documentation, and attention to detail."
+    },
+    {
+      "id": 6,
+      "category": "Teamwork",
+      "difficulty": "Medium",
+      "question": "Tell me about a successful collaboration with a team.",
+      "answer": "Describe your role, communication, and the final result."
+    },
+    {
+      "id": 7,
+      "category": "Learning",
+      "difficulty": "Easy",
+      "question": "How do you stay updated with new technologies?",
+      "answer": "Mention official documentation, WWDC sessions, courses, blogs, and hands-on projects."
+    },
+    {
+      "id": 8,
+      "category": "Adaptability",
+      "difficulty": "Medium",
+      "question": "Describe a time when project requirements changed unexpectedly.",
+      "answer": "Explain how you adapted, reprioritized tasks, and delivered successfully."
+    },
+    {
+      "id": 9,
+      "category": "Leadership",
+      "difficulty": "Medium",
+      "question": "Tell me about a time you took initiative without being asked.",
+      "answer": "Describe how your initiative improved the project or team."
+    },
+    {
+      "id": 10,
+      "category": "Company",
+      "difficulty": "Easy",
+      "question": "Why should Apple hire you?",
+      "answer": "Highlight your technical expertise, creativity, attention to detail, and passion for building high-quality products."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "company": "Meta",
+  "parent_company": "Meta Platforms, Inc.",
+  "founded": 2004,
+  "founders": [
+    "Mark Zuckerberg",
+    "Eduardo Saverin",
+    "Andrew McCollum",
+    "Dustin Moskovitz",
+    "Chris Hughes"
+  ],
+  "ceo": "Mark Zuckerberg",
+  "headquarters": "Menlo Park, California, USA",
+  "industry": "Technology",
+  "employees": "76000+",
+  "website": "https://about.meta.com",
+  "careers": "https://www.metacareers.com",
+  "internships": true,
+  "work_model": [
+    "Hybrid",
+    "On-site"
+  ],
+  "products": [
+    "Facebook",
+    "Instagram",
+    "WhatsApp",
+    "Messenger",
+    "Threads"
+  ],
+  "tech_stack": [
+    "Hack",
+    "Python",
+    "C++",
+    "React",
+    "PyTorch"
+  ],
+  "interview_process": [
+    "Online Assessment",
+    "Technical Interviews",
+    "System Design",
+    "Behavioral"
+  ],
+  "salary": {
+    "intern": "$45-$65/hour",
+    "sde1": "$180k-$240k",
+    "sde2": "$270k-$380k"
+  },
+  "description": "Meta develops social networking platforms, virtual reality products, and artificial intelligence technologies."
+}

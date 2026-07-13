@@ -1,0 +1,75 @@
+{
+  "company": "Oracle",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Company",
+      "difficulty": "Easy",
+      "question": "Why do you want to work at Oracle?",
+      "answer": "Explain your interest in Oracle's cloud platform, database technologies, enterprise software, and innovation."
+    },
+    {
+      "id": 2,
+      "category": "Database",
+      "difficulty": "Medium",
+      "question": "Describe a project where you worked with databases.",
+      "answer": "Explain the database used, your role, challenges faced, and the results achieved."
+    },
+    {
+      "id": 3,
+      "category": "Problem Solving",
+      "difficulty": "Hard",
+      "question": "Tell me about a difficult technical issue you resolved.",
+      "answer": "Use the STAR method to explain the issue, your approach, and the outcome."
+    },
+    {
+      "id": 4,
+      "category": "Teamwork",
+      "difficulty": "Medium",
+      "question": "Describe a time you worked on a cross-functional team.",
+      "answer": "Discuss communication, collaboration, and successful project delivery."
+    },
+    {
+      "id": 5,
+      "category": "Learning",
+      "difficulty": "Easy",
+      "question": "How do you learn new technologies quickly?",
+      "answer": "Mention documentation, online courses, certifications, and practical projects."
+    },
+    {
+      "id": 6,
+      "category": "Leadership",
+      "difficulty": "Medium",
+      "question": "Describe a situation where you took initiative.",
+      "answer": "Explain how you identified an opportunity and successfully completed the task."
+    },
+    {
+      "id": 7,
+      "category": "Adaptability",
+      "difficulty": "Medium",
+      "question": "Tell me about a time you adapted to changing project requirements.",
+      "answer": "Explain how you reprioritized work while maintaining quality."
+    },
+    {
+      "id": 8,
+      "category": "Communication",
+      "difficulty": "Easy",
+      "question": "How do you explain technical issues to non-technical clients?",
+      "answer": "Use simple language, practical examples, and focus on business impact."
+    },
+    {
+      "id": 9,
+      "category": "Quality",
+      "difficulty": "Medium",
+      "question": "How do you ensure the reliability of your software?",
+      "answer": "Discuss testing, code reviews, monitoring, and documentation."
+    },
+    {
+      "id": 10,
+      "category": "Company",
+      "difficulty": "Easy",
+      "question": "Why should Oracle hire you?",
+      "answer": "Highlight your database knowledge, technical skills, teamwork, and willingness to learn."
+    }
+  ]
+}

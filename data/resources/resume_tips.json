@@ -1,0 +1,45 @@
+{
+  "skill": "Resume Tips",
+  "roles": [
+    "Software Engineer",
+    "Backend Developer",
+    "Frontend Developer",
+    "Full Stack Developer",
+    "Python Developer",
+    "Machine Learning Engineer",
+    "Data Scientist",
+    "Data Analyst"
+  ],
+  "courses": [
+    {
+      "name": "Introduction to Resume Tips",
+      "platform": "Coursera",
+      "url": "https://www.coursera.org"
+    },
+    {
+      "name": "Resume Tips Complete Guide",
+      "platform": "Udemy",
+      "url": "https://www.udemy.com"
+    }
+  ],
+  "youtube": [
+    {
+      "channel": "freeCodeCamp",
+      "url": "https://www.youtube.com/@freecodecamp"
+    },
+    {
+      "channel": "CodeWithHarry",
+      "url": "https://www.youtube.com/@CodeWithHarry"
+    }
+  ],
+  "books": [
+    "Learning Resume Tips",
+    "Mastering Resume Tips",
+    "Resume Tips Handbook"
+  ],
+  "practice_websites": [
+    "https://leetcode.com",
+    "https://www.hackerrank.com",
+    "https://www.geeksforgeeks.org"
+  ]
+}

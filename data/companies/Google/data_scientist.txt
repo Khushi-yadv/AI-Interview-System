@@ -1,0 +1,37 @@
+Job Title:Data Scientist
+
+Required Skills:
+
+Python
+
+Statistics
+
+Machine Learning
+
+Scikit-learn
+
+Pandas
+
+NumPy
+
+SQL
+
+Data Visualization
+
+Experimentation
+
+Git
+
+Preferred Skills:
+
+TensorFlow / PyTorch
+
+NLP
+
+BigQuery
+
+AWS / GCP
+
+MLOps
+
+Causal Inference

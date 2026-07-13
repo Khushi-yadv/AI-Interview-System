@@ -1,0 +1,42 @@
+{
+  "company": "Cognizant",
+  "parent_company": "Cognizant Technology Solutions",
+  "founded": 1994,
+  "founders": [
+    "Kumar Mahadeva",
+    "Francisco D'Souza"
+  ],
+  "ceo": "Ravi Kumar S",
+  "headquarters": "Teaneck, New Jersey, USA",
+  "industry": "Information Technology Services",
+  "employees": "340000+",
+  "website": "https://www.cognizant.com",
+  "careers": "https://careers.cognizant.com",
+  "internships": true,
+  "work_model": [
+    "Hybrid"
+  ],
+  "products": [
+    "Neuro AI",
+    "Cognizant Cloud",
+    "Digital Engineering"
+  ],
+  "tech_stack": [
+    "Java",
+    "Python",
+    ".NET",
+    "SQL",
+    "React"
+  ],
+  "interview_process": [
+    "Online Assessment",
+    "Technical Interview",
+    "HR Interview"
+  ],
+  "salary": {
+    "intern": "$18-$28/hour",
+    "sde1": "$85k-$120k",
+    "sde2": "$120k-$160k"
+  },
+  "description": "Cognizant provides IT consulting, digital transformation, cloud, engineering, and business process services."
+}

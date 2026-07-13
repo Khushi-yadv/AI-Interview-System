@@ -1,0 +1,56 @@
+{
+  "career": "Software Engineer",
+  "description": "A Software Engineer develops, tests, and maintains software applications by writing efficient, scalable, and reliable code. They collaborate with teams, solve technical problems, optimize application performance, and build high-quality software solutions using modern programming languages, frameworks, and development tools.",
+  "steps": [
+    {
+      "step": 1,
+      "title": "Programming Language",
+      "topics": [
+        "C++",
+        "Java",
+        "Python"
+      ]
+    },
+    {
+      "step": 2,
+      "title": "Data Structures & Algorithms",
+      "topics": [
+        "Arrays",
+        "Linked List",
+        "Stack",
+        "Queue",
+        "Trees",
+        "Graphs",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "step": 3,
+      "title": "Core Subjects",
+      "topics": [
+        "OOPS",
+        "DBMS",
+        "Operating System",
+        "Computer Networks",
+        "SQL"
+      ]
+    },
+    {
+      "step": 4,
+      "title": "Projects",
+      "topics": [
+        "2-3 Major Projects",
+        "GitHub Portfolio"
+      ]
+    },
+    {
+      "step": 5,
+      "title": "Interview Preparation",
+      "topics": [
+        "Aptitude",
+        "HR Interview",
+        "Mock Interview"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "company": "Microsoft",
+  "parent_company": "Microsoft Corporation",
+  "founded": 1975,
+  "founders": [
+    "Bill Gates",
+    "Paul Allen"
+  ],
+  "ceo": "Satya Nadella",
+  "headquarters": "Redmond, Washington, USA",
+  "industry": "Technology",
+  "employees": "228000+",
+  "website": "https://www.microsoft.com",
+  "careers": "https://careers.microsoft.com",
+  "internships": true,
+  "work_model": [
+    "Hybrid"
+  ],
+  "products": [
+    "Windows",
+    "Microsoft 365",
+    "Azure",
+    "Visual Studio",
+    "GitHub",
+    "Xbox",
+    "Copilot"
+  ],
+  "tech_stack": [
+    "C#",
+    ".NET",
+    "Java",
+    "Python",
+    "C++",
+    "TypeScript",
+    "React",
+    "Azure"
+  ],
+  "interview_process": [
+    "Online Assessment",
+    "Technical Interviews",
+    "Coding Rounds",
+    "Managerial",
+    "HR"
+  ],
+  "salary": {
+    "intern": "$35-$50/hour",
+    "sde1": "$150k-$190k",
+    "sde2": "$220k-$300k"
+  },
+  "description": "Microsoft develops operating systems, cloud computing platforms, productivity software, AI solutions, developer tools, and enterprise technologies. Its flagship products include Windows, Microsoft 365, Azure, GitHub, Visual Studio, Xbox, and Microsoft Copilot."
+}

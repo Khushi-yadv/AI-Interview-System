@@ -1,0 +1,41 @@
+{
+  "company": "Wipro",
+  "parent_company": "Wipro Limited",
+  "founded": 1945,
+  "founders": [
+    "M. H. Hasham Premji"
+  ],
+  "ceo": "Srinivas Pallia",
+  "headquarters": "Bengaluru, Karnataka, India",
+  "industry": "Information Technology Services",
+  "employees": "230000+",
+  "website": "https://www.wipro.com",
+  "careers": "https://careers.wipro.com",
+  "internships": true,
+  "work_model": [
+    "Hybrid"
+  ],
+  "products": [
+    "HOLMES AI",
+    "Wipro FullStride Cloud",
+    "Topcoder"
+  ],
+  "tech_stack": [
+    "Java",
+    "Python",
+    ".NET",
+    "React",
+    "Azure"
+  ],
+  "interview_process": [
+    "Online Assessment",
+    "Technical Interview",
+    "HR Interview"
+  ],
+  "salary": {
+    "intern": "$10-$18/hour",
+    "sde1": "$70k-$95k",
+    "sde2": "$95k-$130k"
+  },
+  "description": "Wipro provides IT consulting, cloud, cybersecurity, AI, engineering, and business process services to global clients."
+}

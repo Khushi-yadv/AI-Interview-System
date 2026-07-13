@@ -1,0 +1,75 @@
+{
+  "company": "Microsoft",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Company",
+      "difficulty": "Easy",
+      "question": "Why do you want to work at Microsoft?",
+      "answer": "Explain your interest in Microsoft's innovation, cloud technologies, AI initiatives, and growth opportunities."
+    },
+    {
+      "id": 2,
+      "category": "Culture",
+      "difficulty": "Medium",
+      "question": "What does a growth mindset mean to you?",
+      "answer": "Describe your willingness to learn, accept feedback, and continuously improve."
+    },
+    {
+      "id": 3,
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "question": "Tell me about a time you learned from a mistake.",
+      "answer": "Use the STAR method and explain what you learned and how you improved."
+    },
+    {
+      "id": 4,
+      "category": "Teamwork",
+      "difficulty": "Medium",
+      "question": "Describe a successful collaboration with your team.",
+      "answer": "Explain your role, communication, and the outcome."
+    },
+    {
+      "id": 5,
+      "category": "Problem Solving",
+      "difficulty": "Hard",
+      "question": "Describe a difficult technical problem you solved.",
+      "answer": "Focus on your analysis, solution, and measurable impact."
+    },
+    {
+      "id": 6,
+      "category": "Innovation",
+      "difficulty": "Medium",
+      "question": "Tell me about an innovative idea you implemented.",
+      "answer": "Explain the idea, implementation process, and results."
+    },
+    {
+      "id": 7,
+      "category": "Leadership",
+      "difficulty": "Medium",
+      "question": "Have you mentored or helped someone improve?",
+      "answer": "Describe how you guided someone and the positive outcome."
+    },
+    {
+      "id": 8,
+      "category": "Communication",
+      "difficulty": "Easy",
+      "question": "How do you communicate technical information to non-technical stakeholders?",
+      "answer": "Use simple language, practical examples, and focus on business impact."
+    },
+    {
+      "id": 9,
+      "category": "Adaptability",
+      "difficulty": "Medium",
+      "question": "Tell me about a time you adapted to a major change.",
+      "answer": "Describe how you stayed productive while adapting to new circumstances."
+    },
+    {
+      "id": 10,
+      "category": "Company",
+      "difficulty": "Easy",
+      "question": "Why should Microsoft hire you?",
+      "answer": "Summarize your technical skills, teamwork, learning mindset, and ability to contribute to Microsoft's mission."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+Job Title:Data Analyst
+
+Required Skills:
+
+SQL
+Excel
+Python
+Pandas
+Power BI
+Tableau
+Statistics
+Data Visualization
+Git
+Data Cleaning
+
+Preferred Skills:
+
+Azure Synapse Analytics
+ETL
+A/B Testing
+Business Intelligence
+Data Warehousing
+Microsoft Fabric

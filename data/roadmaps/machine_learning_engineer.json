@@ -1,0 +1,125 @@
+{
+  "career": "Machine Learning Engineer",
+  "description": "A Machine Learning Engineer develops intelligent systems by building, training, evaluating, and deploying machine learning models using Python, data science, and MLOps tools.",
+
+  "steps": [
+    {
+      "step": 1,
+      "title": "Programming Fundamentals",
+      "topics": [
+        "Python",
+        "Object-Oriented Programming",
+        "Functions",
+        "File Handling",
+        "Exception Handling"
+      ]
+    },
+    {
+      "step": 2,
+      "title": "Mathematics for Machine Learning",
+      "topics": [
+        "Linear Algebra",
+        "Probability",
+        "Statistics",
+        "Calculus",
+        "Optimization"
+      ]
+    },
+    {
+      "step": 3,
+      "title": "Data Structures & Algorithms",
+      "topics": [
+        "Arrays",
+        "Strings",
+        "Linked Lists",
+        "Stacks",
+        "Queues",
+        "Trees",
+        "Graphs",
+        "Searching & Sorting"
+      ]
+    },
+    {
+      "step": 4,
+      "title": "Data Analysis & Visualization",
+      "topics": [
+        "NumPy",
+        "Pandas",
+        "Matplotlib",
+        "Seaborn",
+        "Exploratory Data Analysis (EDA)"
+      ]
+    },
+    {
+      "step": 5,
+      "title": "Machine Learning",
+      "topics": [
+        "Supervised Learning",
+        "Unsupervised Learning",
+        "Regression",
+        "Classification",
+        "Clustering",
+        "Decision Trees",
+        "Random Forest",
+        "Support Vector Machines (SVM)",
+        "K-Nearest Neighbors (KNN)"
+      ]
+    },
+    {
+      "step": 6,
+      "title": "Deep Learning",
+      "topics": [
+        "Artificial Neural Networks (ANN)",
+        "TensorFlow",
+        "Keras",
+        "PyTorch",
+        "Convolutional Neural Networks (CNN)",
+        "Recurrent Neural Networks (RNN)"
+      ]
+    },
+    {
+      "step": 7,
+      "title": "Model Deployment & MLOps",
+      "topics": [
+        "Flask",
+        "FastAPI",
+        "Docker",
+        "MLflow",
+        "Streamlit",
+        "AWS Basics"
+      ]
+    },
+    {
+      "step": 8,
+      "title": "Version Control",
+      "topics": [
+        "Git",
+        "GitHub",
+        "CI/CD Basics"
+      ]
+    },
+    {
+      "step": 9,
+      "title": "Projects",
+      "topics": [
+        "House Price Prediction",
+        "Spam Email Classifier",
+        "Image Classification",
+        "Sentiment Analysis",
+        "Recommendation System",
+        "AI Interview Preparation System"
+      ]
+    },
+    {
+      "step": 10,
+      "title": "Interview Preparation",
+      "topics": [
+        "Machine Learning Interview Questions",
+        "Python Coding Practice",
+        "Statistics & Probability",
+        "Resume Building",
+        "Mock Interviews"
+      ]
+    }
+  ]
+}

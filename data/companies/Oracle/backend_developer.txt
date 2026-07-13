@@ -1,0 +1,23 @@
+Job Title:Backend Developer
+
+Required Skills:
+
+Java
+Spring Boot
+Python
+REST APIs
+SQL
+Oracle Database
+Git
+Authentication (JWT/OAuth)
+Microservices
+Data Structures
+
+Preferred Skills:
+
+Redis
+Kafka
+Docker
+Kubernetes
+Oracle Cloud Infrastructure (OCI)
+System Design

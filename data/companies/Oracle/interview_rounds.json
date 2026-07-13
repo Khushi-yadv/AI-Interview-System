@@ -1,0 +1,25 @@
+{
+  "company": "Oracle",
+  "rounds": [
+    {
+      "round": 1,
+      "name": "Online Coding Test",
+      "focus": ["Coding", "SQL"]
+    },
+    {
+      "round": 2,
+      "name": "Technical Interview",
+      "focus": ["DSA", "Database", "Java"]
+    },
+    {
+      "round": 3,
+      "name": "Managerial Interview",
+      "focus": ["Projects", "Problem Solving"]
+    },
+    {
+      "round": 4,
+      "name": "HR Interview",
+      "focus": ["Behavioral", "Communication"]
+    }
+  ]
+}

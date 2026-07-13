@@ -1,0 +1,117 @@
+[
+  {
+    "id": "SEA001",
+    "title": "Search Insert Position",
+    "difficulty": "Easy",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Search"
+    ],
+    "leetcode": "https://leetcode.com/problems/search-insert-position/"
+  },
+  {
+    "id": "SEA002",
+    "title": "Find Peak Element",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Search"
+    ],
+    "leetcode": "https://leetcode.com/problems/find-peak-element/"
+  },
+  {
+    "id": "SEA003",
+    "title": "Search a 2D Matrix",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Binary Search"
+    ],
+    "leetcode": "https://leetcode.com/problems/search-a-2d-matrix/"
+  },
+  {
+    "id": "SEA004",
+    "title": "First Bad Version",
+    "difficulty": "Easy",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Binary Search"
+    ],
+    "leetcode": "https://leetcode.com/problems/first-bad-version/"
+  },
+  {
+    "id": "SEA005",
+    "title": "Guess Number Higher or Lower",
+    "difficulty": "Easy",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Binary Search"
+    ],
+    "leetcode": "https://leetcode.com/problems/guess-number-higher-or-lower/"
+  }
+]

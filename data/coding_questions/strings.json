@@ -1,0 +1,119 @@
+[
+  {
+    "id": "STR001",
+    "title": "Valid Anagram",
+    "difficulty": "Easy",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "String"
+    ],
+    "leetcode": "https://leetcode.com/problems/valid-anagram/"
+  },
+  {
+    "id": "STR002",
+    "title": "Longest Common Prefix",
+    "difficulty": "Easy",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "String"
+    ],
+    "leetcode": "https://leetcode.com/problems/longest-common-prefix/"
+  },
+  {
+    "id": "STR003",
+    "title": "Valid Palindrome",
+    "difficulty": "Easy",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "String",
+      "Two Pointers"
+    ],
+    "leetcode": "https://leetcode.com/problems/valid-palindrome/"
+  },
+  {
+    "id": "STR004",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Sliding Window"
+    ],
+    "leetcode": "https://leetcode.com/problems/longest-substring-without-repeating-characters/"
+  },
+  {
+    "id": "STR005",
+    "title": "Group Anagrams",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Hash Map",
+      "String"
+    ],
+    "leetcode": "https://leetcode.com/problems/group-anagrams/"
+  }
+]

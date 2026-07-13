@@ -1,0 +1,117 @@
+[
+  {
+    "id": "SW001",
+    "title": "Maximum Average Subarray I",
+    "difficulty": "Easy",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Sliding Window"
+    ],
+    "leetcode": "https://leetcode.com/problems/maximum-average-subarray-i/"
+  },
+  {
+    "id": "SW002",
+    "title": "Longest Repeating Character Replacement",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Sliding Window"
+    ],
+    "leetcode": "https://leetcode.com/problems/longest-repeating-character-replacement/"
+  },
+  {
+    "id": "SW003",
+    "title": "Permutation in String",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Sliding Window"
+    ],
+    "leetcode": "https://leetcode.com/problems/permutation-in-string/"
+  },
+  {
+    "id": "SW004",
+    "title": "Minimum Window Substring",
+    "difficulty": "Hard",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Sliding Window"
+    ],
+    "leetcode": "https://leetcode.com/problems/minimum-window-substring/"
+  },
+  {
+    "id": "SW005",
+    "title": "Sliding Window Maximum",
+    "difficulty": "Hard",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Sliding Window"
+    ],
+    "leetcode": "https://leetcode.com/problems/sliding-window-maximum/"
+  }
+]

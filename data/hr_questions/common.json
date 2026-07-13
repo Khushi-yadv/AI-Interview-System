@@ -1,0 +1,180 @@
+{
+  "title": "Common HR Interview Questions",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Introduction",
+      "difficulty": "Easy",
+      "question": "Tell me about yourself.",
+      "answer": "Give a 1-2 minute summary of your education, skills, projects, experience, and career goals."
+    },
+    {
+      "id": 2,
+      "category": "Motivation",
+      "difficulty": "Easy",
+      "question": "Why do you want to work here?",
+      "answer": "Explain how your skills, interests, and career goals align with the company and role."
+    },
+    {
+      "id": 3,
+      "category": "Personality",
+      "difficulty": "Easy",
+      "question": "What are your strengths?",
+      "answer": "Mention 2-3 strengths and support each with a real example."
+    },
+    {
+      "id": 4,
+      "category": "Personality",
+      "difficulty": "Medium",
+      "question": "What is your biggest weakness?",
+      "answer": "Choose a real weakness and explain the steps you're taking to improve."
+    },
+    {
+      "id": 5,
+      "category": "Career",
+      "difficulty": "Easy",
+      "question": "Where do you see yourself in five years?",
+      "answer": "Discuss career growth, learning, and increasing responsibility."
+    },
+    {
+      "id": 6,
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "question": "Tell me about a challenge you faced and how you solved it.",
+      "answer": "Use the STAR method (Situation, Task, Action, Result)."
+    },
+    {
+      "id": 7,
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "question": "Describe a time when you failed.",
+      "answer": "Explain what happened, what you learned, and how you improved."
+    },
+    {
+      "id": 8,
+      "category": "Teamwork",
+      "difficulty": "Easy",
+      "question": "How do you work in a team?",
+      "answer": "Talk about communication, collaboration, and supporting teammates."
+    },
+    {
+      "id": 9,
+      "category": "Leadership",
+      "difficulty": "Medium",
+      "question": "Have you ever led a team or project?",
+      "answer": "Share an example of planning, coordination, and achieving results."
+    },
+    {
+      "id": 10,
+      "category": "Conflict Resolution",
+      "difficulty": "Medium",
+      "question": "How do you handle conflicts with teammates?",
+      "answer": "Focus on listening, understanding different viewpoints, and resolving issues professionally."
+    },
+    {
+      "id": 11,
+      "category": "Problem Solving",
+      "difficulty": "Medium",
+      "question": "Describe a difficult problem you solved.",
+      "answer": "Explain your approach, technical or logical reasoning, and the outcome."
+    },
+    {
+      "id": 12,
+      "category": "Communication",
+      "difficulty": "Easy",
+      "question": "How do you explain technical concepts to non-technical people?",
+      "answer": "Use simple language, examples, and analogies."
+    },
+    {
+      "id": 13,
+      "category": "Time Management",
+      "difficulty": "Easy",
+      "question": "How do you prioritize your work?",
+      "answer": "Discuss planning, prioritization, and meeting deadlines."
+    },
+    {
+      "id": 14,
+      "category": "Learning",
+      "difficulty": "Easy",
+      "question": "How do you keep your technical skills updated?",
+      "answer": "Mention courses, documentation, books, projects, and practice."
+    },
+    {
+      "id": 15,
+      "category": "Projects",
+      "difficulty": "Easy",
+      "question": "Tell me about your favorite project.",
+      "answer": "Explain the problem, your role, technologies used, challenges, and outcome."
+    },
+    {
+      "id": 16,
+      "category": "Pressure",
+      "difficulty": "Medium",
+      "question": "How do you perform under pressure?",
+      "answer": "Describe a real situation where you stayed calm and completed your work successfully."
+    },
+    {
+      "id": 17,
+      "category": "Adaptability",
+      "difficulty": "Easy",
+      "question": "How do you adapt to new technologies or changing requirements?",
+      "answer": "Explain how you learn quickly and adjust to changes."
+    },
+    {
+      "id": 18,
+      "category": "Decision Making",
+      "difficulty": "Medium",
+      "question": "Describe a difficult decision you made.",
+      "answer": "Explain the situation, your reasoning, and the outcome."
+    },
+    {
+      "id": 19,
+      "category": "Values",
+      "difficulty": "Easy",
+      "question": "What motivates you?",
+      "answer": "Discuss learning, solving problems, teamwork, and making an impact."
+    },
+    {
+      "id": 20,
+      "category": "Self Awareness",
+      "difficulty": "Easy",
+      "question": "Why should we hire you?",
+      "answer": "Summarize your skills, experience, projects, and how you can contribute to the organization."
+    },
+    {
+      "id": 21,
+      "category": "Company",
+      "difficulty": "Easy",
+      "question": "What do you know about our company?",
+      "answer": "Discuss the company's products, services, values, and recent achievements."
+    },
+    {
+      "id": 22,
+      "category": "Career",
+      "difficulty": "Easy",
+      "question": "Why are you looking for a new opportunity?",
+      "answer": "Focus on career growth, learning opportunities, and new challenges."
+    },
+    {
+      "id": 23,
+      "category": "Goals",
+      "difficulty": "Easy",
+      "question": "What are your short-term and long-term goals?",
+      "answer": "Share realistic goals related to learning, career growth, and leadership."
+    },
+    {
+      "id": 24,
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "question": "Tell me about a time you exceeded expectations.",
+      "answer": "Use the STAR method to explain the situation and measurable impact."
+    },
+    {
+      "id": 25,
+      "category": "Closing",
+      "difficulty": "Easy",
+      "question": "Do you have any questions for us?",
+      "answer": "Ask thoughtful questions about the role, team, projects, or learning opportunities."
+    }
+  ]
+}

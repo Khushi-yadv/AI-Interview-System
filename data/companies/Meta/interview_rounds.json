@@ -1,0 +1,37 @@
+{
+  "company": "Microsoft",
+  "rounds": [
+    {
+      "round": 1,
+      "name": "Online Assessment",
+      "focus": [
+        "Coding",
+        "MCQs"
+      ]
+    },
+    {
+      "round": 2,
+      "name": "Technical Interview",
+      "focus": [
+        "DSA",
+        "Coding"
+      ]
+    },
+    {
+      "round": 3,
+      "name": "System Design",
+      "focus": [
+        "Scalability",
+        "Architecture"
+      ]
+    },
+    {
+      "round": 4,
+      "name": "Behavioral Interview",
+      "focus": [
+        "Growth Mindset",
+        "Teamwork"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+[
+  {
+    "id": "HEAP001",
+    "title": "Kth Largest Element in a Stream",
+    "difficulty": "Easy",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Heap"
+    ],
+    "leetcode": "https://leetcode.com/problems/kth-largest-element-in-a-stream/"
+  },
+  {
+    "id": "HEAP002",
+    "title": "Top K Frequent Elements",
+    "difficulty": "Medium",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Heap"
+    ],
+    "leetcode": "https://leetcode.com/problems/top-k-frequent-elements/"
+  },
+  {
+    "id": "HEAP003",
+    "title": "Find Median from Data Stream",
+    "difficulty": "Hard",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Heap"
+    ],
+    "leetcode": "https://leetcode.com/problems/find-median-from-data-stream/"
+  },
+  {
+    "id": "HEAP004",
+    "title": "Merge K Sorted Lists",
+    "difficulty": "Hard",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Heap"
+    ],
+    "leetcode": "https://leetcode.com/problems/merge-k-sorted-lists/"
+  },
+  {
+    "id": "HEAP005",
+    "title": "Last Stone Weight",
+    "difficulty": "Easy",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Apple"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "tags": [
+      "Heap"
+    ],
+    "leetcode": "https://leetcode.com/problems/last-stone-weight/"
+  }
+]
