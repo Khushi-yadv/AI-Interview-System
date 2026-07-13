@@ -10,7 +10,7 @@ def load_hr_questions(company):
     company_path = os.path.join(
         "data",
         "companies",
-        company.lower(),
+        company,
         "hr_questions.json"
     )
 
